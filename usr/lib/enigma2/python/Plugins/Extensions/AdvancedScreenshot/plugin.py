@@ -59,13 +59,12 @@ from Screens.VirtualKeyBoard import VirtualKeyBoard
 from Tools.Directories import resolveFilename, SCOPE_MEDIA
 
 # Local specific Imports
-from . import _
+from . import _, __version__
 from .MyConsole import MyConsole
 
 # Constants
 SIZE_W = getDesktop(0).size().width()
 SIZE_H = getDesktop(0).size().height()
-CURRENT_VERSION = '1.2'
 
 
 def get_scale():
@@ -1293,7 +1292,7 @@ def plugins(**kwargs):
             name=_("Advanced Screenshot"),
             description=_("Professional screenshot tool") +
             " " +
-            CURRENT_VERSION,
+            __version__,
             where=PluginDescriptor.WHERE_PLUGINMENU,
             icon="plugin.png",
             fnc=setup),
