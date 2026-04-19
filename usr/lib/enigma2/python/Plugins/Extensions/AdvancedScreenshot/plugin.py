@@ -1,6 +1,41 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function
+
+import subprocess
+import time
+from datetime import datetime
+from os import (
+    access, chmod, listdir, makedirs, remove, stat, W_OK, X_OK
+)
+from os.path import exists, getctime, isdir, isfile, join  # , getsize
+from re import match
+
+try:
+    from Components.AVSwitch import AVSwitch
+except ImportError:
+    from Components.AVSwitch import eAVControl as AVSwitch
+from enigma import eActionMap, ePicLoad, getDesktop
+from twisted.web import resource, server
+
+from Components.ActionMap import ActionMap
+from Components.ConfigList import ConfigList, ConfigListScreen
+from Components.config import (
+    ConfigEnableDisable, ConfigInteger, ConfigSelection, ConfigSubsection,
+    ConfigYesNo, config, getConfigListEntry, ConfigNothing, NoSave
+)
+from Components.Label import Label
+from Components.Harddisk import harddiskmanager
+from Components.MenuList import MenuList
+from Components.Pixmap import Pixmap
+from Plugins.Plugin import PluginDescriptor
+from Screens.MessageBox import MessageBox
+from Screens.Screen import Screen
+from Screens.VirtualKeyBoard import VirtualKeyBoard
+from Tools.Directories import resolveFilename, SCOPE_MEDIA
+
+from . import _, __version__
+from .MyConsole import MyConsole
 """
 #########################################################
 #                                                       #
@@ -22,45 +57,6 @@ from __future__ import absolute_import, print_function
 #########################################################
 """
 __author__ = "Lululla"
-
-# Standard Library Imports
-import subprocess
-import time
-from datetime import datetime
-from os import (
-    access, chmod, listdir, makedirs, remove, stat, W_OK, X_OK
-)
-from os.path import exists, getctime, isdir, isfile, join  # , getsize
-from re import match
-
-# Third-party Imports
-try:
-    from Components.AVSwitch import AVSwitch
-except ImportError:
-    from Components.AVSwitch import eAVControl as AVSwitch
-from enigma import eActionMap, ePicLoad, getDesktop
-from twisted.web import resource, server
-
-# Application-specific Imports
-from Components.ActionMap import ActionMap
-from Components.ConfigList import ConfigList, ConfigListScreen
-from Components.config import (
-    ConfigEnableDisable, ConfigInteger, ConfigSelection, ConfigSubsection,
-    ConfigYesNo, config, getConfigListEntry, ConfigNothing, NoSave
-)
-from Components.Label import Label
-from Components.Harddisk import harddiskmanager
-from Components.MenuList import MenuList
-from Components.Pixmap import Pixmap
-from Plugins.Plugin import PluginDescriptor
-from Screens.MessageBox import MessageBox
-from Screens.Screen import Screen
-from Screens.VirtualKeyBoard import VirtualKeyBoard
-from Tools.Directories import resolveFilename, SCOPE_MEDIA
-
-# Local specific Imports
-from . import _, __version__
-from .MyConsole import MyConsole
 
 # Constants
 SIZE_W = getDesktop(0).size().width()
