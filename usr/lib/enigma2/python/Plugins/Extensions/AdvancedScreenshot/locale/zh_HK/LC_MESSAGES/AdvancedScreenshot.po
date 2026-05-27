@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' 按鈕而不是 '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "新增 -n 選項以強制不拉伸。"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "如果來源為 16:9，請新增信箱。"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "進階截圖"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "進階截圖庫"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "進階螢幕截圖設定"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "始終輸出 4:3 影像"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "始終輸出 4:3 影像（如果來源為 16:9，則新增信箱）"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "始終保存螢幕截圖"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "您確定要刪除此螢幕截圖嗎？"
 
 msgid "BMP"
-msgstr ""
+msgstr "骨形態發生蛋白"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "選擇哪個按鈕觸發螢幕截圖。"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "預設解析度"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "刪除失敗："
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "啟用或停用進階螢幕截圖外掛程式。"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "啟用插件"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "捕獲期間出錯:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "載入圖庫時出錯："
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "修復縱橫比"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "修復縱橫比（添加 -n 以強制不拉伸）"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "儲存螢幕截圖的資料夾。"
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "凍結幀預覽"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "截圖時凍結幀預覽。"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "硬碟"
 
 msgid "Image format"
-msgstr ""
+msgstr "圖片格式"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "必須長按此按鈕。"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "需要長按"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "需要長按按鈕"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "訊息超時（秒）"
 
 msgid "Network mount"
-msgstr ""
+msgstr "網路掛載"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + 視頻"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "僅 OSD"
 
 msgid "PNG"
-msgstr ""
+msgstr "巴布亞紐幾內亞"
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "按 OK 儲存 - EXIT 取消"
 
 msgid "Press type for"
-msgstr ""
+msgstr "按類型為"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "按鈕的按下類型"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "專業截圖工具"
 
 msgid "Resolution"
-msgstr ""
+msgstr "解決"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "儲存路徑（需要重新啟動）"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "即使幀被凍結也保存螢幕截圖。"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "截圖保存成功！"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "選擇螢幕截圖按鈕"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "選擇螢幕截圖的圖像格式。"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "選擇螢幕截圖的解析度。"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "設定按鈕的按下類型而不是長按。"
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "影像大小調整速度較慢但更平滑。"
 
 msgid "Temporary"
-msgstr ""
+msgstr "暫時的"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "是時候在螢幕上顯示訊息了。"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 隨身碟"
 
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "使用雙三次調整大小"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "使用雙三次調整大小（速度較慢，但影像更平滑）"
 
 msgid "Video Only"
-msgstr ""
+msgstr "僅視頻"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "查看擷取的螢幕截圖"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "網頁擷取失敗：抓取不可用"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' 可以使用。"
 
 msgid "long:"
-msgstr ""
+msgstr "長的："
 
 msgid "no message"
-msgstr ""
+msgstr "沒有消息"
 
 msgid "no timeout"
-msgstr ""
+msgstr "沒有超時"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "請稍候，正在加載圖片..."

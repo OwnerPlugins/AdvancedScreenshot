@@ -38,7 +38,7 @@ msgid "Advanced Screenshot Setup"
 msgstr "高级屏幕截图"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "始终输出 4:3 图像"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
 msgstr "始终输出4: 3图像（如果来源为16: 9 ，则添加信箱）"
@@ -53,7 +53,7 @@ msgid "BMP"
 msgstr "BMP"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "选择哪个按钮触发屏幕截图。"
 
 msgid "Default Resolution"
 msgstr "默认分辨率"
@@ -63,7 +63,7 @@ msgid "Delete failed:"
 msgstr "删除失败:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "启用或禁用高级屏幕截图插件。"
 
 msgid "Enable plugin"
 msgstr "启用插件"
@@ -76,19 +76,19 @@ msgid "Error loading gallery:"
 msgstr "加载图库时出错："
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "修复纵横比"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
 msgstr "修复纵横比（添加-n以强制不拉伸）"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "保存屏幕截图的文件夹。"
 
 msgid "Freeze frame preview"
 msgstr "冻结帧预览"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "截图时冻结帧预览。"
 
 msgid "Hard Disk"
 msgstr "硬盘"
@@ -155,7 +155,7 @@ msgid "Save path (requires restart)"
 msgstr "保存路径（需要重新启动）"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "即使帧被冻结也保存屏幕截图。"
 
 msgid "Screenshot saved successfully!"
 msgstr "屏幕截图已成功保存！"
@@ -164,25 +164,25 @@ msgid "Select screenshot button"
 msgstr "选择屏幕截图按钮"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "选择屏幕截图的图像格式。"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "选择屏幕截图的分辨率。"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "设置按钮的按下类型而不是长按。"
 
 msgid "Settings"
 msgstr "设置"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "图像大小调整速度较慢但更平滑。"
 
 msgid "Temporary"
 msgstr "临时"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "是时候在屏幕上显示消息了。"
 
 msgid "USB Drive"
 msgstr "U盘"
@@ -191,7 +191,7 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "使用双三次调整大小"
 
 msgid "Use bicubic resize (slower, but smoother image)"
 msgstr "使用双立方调整大小（较慢，但更平滑的图像）"
@@ -203,7 +203,7 @@ msgid "View captured screenshots"
 msgstr "查看截取的屏幕截图"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "网页捕获失败：抓取不可用"
 
 #, fuzzy
 msgid "long ' can be used."
@@ -220,7 +220,7 @@ msgid "no timeout"
 msgstr "未超时"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "请稍候，正在加载图片..."
 
 #~ msgid "Button behavior warning"
 #~ msgstr "Avviso sul comportamento del pulsante"

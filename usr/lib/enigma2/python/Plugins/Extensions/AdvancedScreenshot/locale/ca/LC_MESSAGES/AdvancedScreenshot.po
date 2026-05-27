@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "botó ' en lloc de '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Afegiu l'opció -n per no forçar cap estirament."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Afegiu bústia si la font és 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Captura de pantalla avançada"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Galeria de captures de pantalla avançada"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Configuració avançada de captura de pantalla"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Sortir sempre una imatge 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Emet sempre una imatge 4:3 (afegeix bústia si la font és 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Deseu sempre les captures de pantalla"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Esteu segur que voleu suprimir aquesta captura de pantalla?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Trieu quin botó activa la captura de pantalla."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Resolució per defecte"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "No s'ha pogut suprimir:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Activa o desactiva el connector Captura de pantalla avançada."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Activa el connector"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Error durant la captura:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Error en carregar la galeria:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Corregir la relació d'aspecte"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Corregiu la relació d'aspecte (afegeix -n per no forçar cap estirament)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Carpeta on es guarden les captures de pantalla."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Congela la vista prèvia del fotograma"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Congela la vista prèvia del fotograma quan facis una captura de pantalla."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disc dur"
 
 msgid "Image format"
-msgstr ""
+msgstr "Format d'imatge"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "S'ha d'utilitzar una pressió llarga per a aquest botó."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Necessita premsa llarga per"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Cal prémer llargament el botó"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Temps d'espera del missatge (segons)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Muntatge en xarxa"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + vídeo"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Només OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Premeu D'acord per desar - EXIT per cancel·lar"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Premeu el tipus per"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Premeu el tipus per al botó"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Eina professional de captura de pantalla"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Resolució"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Desa el camí (cal reiniciar)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Desa les captures de pantalla encara que el marc estigui congelat."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "La captura de pantalla s'ha desat correctament!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Seleccioneu el botó de captura de pantalla"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Seleccioneu el format d'imatge per a les captures de pantalla."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Seleccioneu la resolució per a les captures de pantalla."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Estableix el tipus de premsa per al botó en lloc de la pressió llarga."
 
 msgid "Settings"
-msgstr ""
+msgstr "Configuració"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Redimensionament de la imatge més lent però més suau."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Temporal"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "És hora de mostrar missatges a la pantalla."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Unitat USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Desconegut"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Utilitzeu el canvi de mida bicúbic"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Utilitzeu el canvi de mida bicúbic (imatge més lenta, però més suau)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Només vídeo"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Visualitza les captures de pantalla capturades"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "La captura web ha fallat: la captura no està disponible"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "llarg " es pot utilitzar."
 
 msgid "long:"
-msgstr ""
+msgstr "llarg:"
 
 msgid "no message"
-msgstr ""
+msgstr "cap missatge"
 
 msgid "no timeout"
-msgstr ""
+msgstr "sense temps d'espera"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "si us plau, espereu, carregant la imatge..."

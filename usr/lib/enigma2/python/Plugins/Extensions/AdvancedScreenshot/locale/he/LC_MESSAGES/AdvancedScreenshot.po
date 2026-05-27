@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "כפתור ' במקום '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "הוסף אפשרות -n כדי לאלץ שום מתיחה."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "הוסף תיבת מכתבים אם המקור הוא 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "צילום מסך מתקדם"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "גלריית צילום מסך מתקדמת"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "הגדרת צילום מסך מתקדמת"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "תמיד פלט תמונה 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "פלט תמיד תמונה של 4:3 (מוסיף תיבה אם המקור הוא 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "שמור תמיד צילומי מסך"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "האם אתה בטוח שברצונך למחוק את צילום המסך הזה?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "בחר איזה כפתור יפעיל צילום מסך."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "רזולוציית ברירת מחדל"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "המחיקה נכשלה:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "הפעל או השבת את הפלאגין Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "הפעל תוסף"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "שגיאה במהלך לכידה:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "שגיאה בטעינת הגלריה:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "תקן יחס רוחב-גובה"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "תקן יחס רוחב-גובה (מוסיף -n כדי לאלץ מתיחה)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "תיקיה שבה נשמרים צילומי מסך."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "הקפאת תצוגה מקדימה של מסגרת"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "הקפאת התצוגה המקדימה של המסגרת בעת צילום מסך."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "דיסק קשיח"
 
 msgid "Image format"
-msgstr ""
+msgstr "פורמט תמונה"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "יש להשתמש בלחיצה ארוכה עבור כפתור זה."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "נדרשת לחיצה ארוכה עבור"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "נדרשת לחיצה ארוכה ללחצן"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "פסק זמן להודעה (שניות)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "תושבת לרשת"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + וידאו"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD בלבד"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "לחץ על אישור כדי לשמור - יציאה לביטול"
 
 msgid "Press type for"
-msgstr ""
+msgstr "הקש הקלד עבור"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "לחץ על הקלד עבור כפתור"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "כלי צילום מסך מקצועי"
 
 msgid "Resolution"
-msgstr ""
+msgstr "הַחְלָטָה"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "שמור נתיב (דורש הפעלה מחדש)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "שמור צילומי מסך גם אם המסגרת קפואה."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "צילום המסך נשמר בהצלחה!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "לחצן בחר צילום מסך"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "בחר את פורמט התמונה עבור צילומי מסך."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "בחר את הרזולוציה עבור צילומי מסך."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "הגדר את סוג הלחיצה ללחצן במקום לחיצה ארוכה."
 
 msgid "Settings"
-msgstr ""
+msgstr "הגדרות"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "שינוי גודל תמונה איטי יותר אך חלק יותר."
 
 msgid "Temporary"
-msgstr ""
+msgstr "זְמַנִי"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "הגיע הזמן להציג הודעות על המסך."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "כונן USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "לֹא יְדוּעַ"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "השתמש בשינוי גודל bicubic"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "השתמש בשינוי גודל דו-קובי (תמונה איטית יותר אך חלקה יותר)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "וידאו בלבד"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "צפה בצילומי מסך שצולמו"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "לכידת אינטרנט נכשלה: התפוס לא זמין"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "ארוך ' ניתן להשתמש."
 
 msgid "long:"
-msgstr ""
+msgstr "אָרוֹך:"
 
 msgid "no message"
-msgstr ""
+msgstr "אין הודעה"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ללא פסק זמן"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "אנא המתן, טוען תמונה..."

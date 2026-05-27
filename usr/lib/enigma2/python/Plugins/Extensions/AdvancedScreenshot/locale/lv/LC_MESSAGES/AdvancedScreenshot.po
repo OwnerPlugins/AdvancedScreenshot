@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' poga ' vietā"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Pievienojiet opciju -n, lai nepiespiestu stiept."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Pievienojiet pastkastīti, ja avots ir 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Papildu ekrānuzņēmums"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Papildu ekrānuzņēmumu galerija"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Papildu ekrānuzņēmuma iestatīšana"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Vienmēr izvada 4:3 attēlu"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Vienmēr izvada 4:3 attēlu (pievieno pastkastīti, ja avots ir 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Vienmēr saglabājiet ekrānuzņēmumus"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Vai tiešām vēlaties dzēst šo ekrānuzņēmumu?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Izvēlieties, kura poga aktivizē ekrānuzņēmumu."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Noklusējuma izšķirtspēja"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Dzēšana neizdevās:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Iespējojiet vai atspējojiet spraudni Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Iespējot spraudni"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Kļūda uzņemšanas laikā:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Ielādējot galeriju, radās kļūda:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Labojiet malu attiecību"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Labot malu attiecību (pievieno -n, lai nepieļautu stiepšanos)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Mape, kurā tiek saglabāti ekrānuzņēmumi."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Fiksēt kadra priekšskatījums"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Ekrānuzņēmuma uzņemšanas laikā iesaldējiet kadra priekšskatījumu."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Cietais disks"
 
 msgid "Image format"
-msgstr ""
+msgstr "Attēla formāts"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60%"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80%"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90%"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Šī poga ir jānospiež ilgi."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Nepieciešams ilgi nospiest"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Nepieciešams ilgi nospiest pogu"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Ziņojuma noildze (sekundēs)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tīkla stiprinājums"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + video"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Tikai OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Nospiediet OK, lai saglabātu - EXIT, lai atceltu"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Nospiediet veidu, lai"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Nospiediet pogas veidu"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Profesionāls ekrānuzņēmumu rīks"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Izšķirtspēja"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Saglabāt ceļu (nepieciešams restartēt)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Saglabājiet ekrānuzņēmumus pat tad, ja rāmis ir iesaldēts."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Ekrānuzņēmums ir veiksmīgi saglabāts!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Izvēlieties ekrānuzņēmuma pogu"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Izvēlieties ekrānuzņēmumu attēla formātu."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Izvēlieties ekrānuzņēmumu izšķirtspēju."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Ilgas nospiešanas vietā iestatiet pogas nospiešanas veidu."
 
 msgid "Settings"
-msgstr ""
+msgstr "Iestatījumi"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Lēnāka, bet vienmērīgāka attēla izmēru maiņa."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Pagaidu"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Laiks parādīt ziņojumus ekrānā."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB diskdzinis"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Nezināms"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Izmantojiet bikubiskā izmēra maiņu"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Izmantojiet bikubiskā izmēra maiņu (lēnāks, bet vienmērīgāks attēls)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Tikai video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Skatiet uzņemtos ekrānuzņēmumus"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Tīmekļa tveršana neizdevās: satveršana nav pieejama"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "var izmantot garu."
 
 msgid "long:"
-msgstr ""
+msgstr "garš:"
 
 msgid "no message"
-msgstr ""
+msgstr "nav ziņas"
 
 msgid "no timeout"
-msgstr ""
+msgstr "nav taimauta"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "lūdzu uzgaidiet, tiek ielādēts attēls..."

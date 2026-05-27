@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' botwm yn lle '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Ychwanegu -n opsiwn i orfodi dim ymestyn."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Ychwanegwch flwch llythyrau os yw'r ffynhonnell yn 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Sgrinlun Uwch"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Oriel Sgrinlun Uwch"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Gosod Sgrinlun Uwch"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Allbynnu delwedd 4:3 bob amser"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Allbynnu delwedd 4:3 bob amser (yn ychwanegu blwch llythyrau os yw'r ffynhonnell yn 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Cadwch sgrinluniau bob amser"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Ydych chi'n siŵr eich bod am ddileu'r sgrinlun hwn?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Dewiswch pa fotwm sy'n sbarduno sgrinlun."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Datrysiad Diofyn"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Wedi methu dileu:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Galluogi neu analluogi'r ategyn Sgrinlun Uwch."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Galluogi ategyn"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Gwall wrth gipio:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Gwall wrth lwytho'r oriel:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Trwsio cymhareb agwedd"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Trwsio cymhareb agwedd (yn ychwanegu -n at orfodi dim ymestyn)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Ffolder lle mae sgrinluniau'n cael eu cadw."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Rhagolwg ffrâm rhewi"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Rhewi'r rhagolwg ffrâm wrth gymryd sgrinlun."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disg Galed"
 
 msgid "Image format"
-msgstr ""
+msgstr "Fformat delwedd"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Rhaid defnyddio gwasg hir ar gyfer y botwm hwn."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Mae angen gwasg hir ar gyfer"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Mae angen gwasgu hir ar gyfer y botwm"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Goramser neges (eiliadau)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Mownt rhwydwaith"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Fideo"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD yn Unig"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Pwyswch OK i gadw - EXIT i ganslo"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Gwasgwch fath ar gyfer"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Pwyswch y math ar gyfer botwm"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Offeryn screenshot proffesiynol"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Datrysiad"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Cadw llwybr (angen ailgychwyn)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Arbed sgrinluniau hyd yn oed os ffrâm wedi rhewi."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Sgrinlun wedi'i gadw'n llwyddiannus!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Dewiswch botwm sgrinlun"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Dewiswch y fformat delwedd ar gyfer sgrinluniau."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Dewiswch y datrysiad ar gyfer sgrinluniau."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Gosodwch y math o wasg ar gyfer botwm yn lle gwasg hir."
 
 msgid "Settings"
-msgstr ""
+msgstr "Gosodiadau"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Newid maint delwedd arafach ond llyfnach."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Dros Dro"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Amser i arddangos negeseuon ar y sgrin."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Gyriant USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Anhysbys"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Defnyddiwch newid maint biciwbig"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Defnyddiwch newid maint biciwbig (delwedd arafach, ond llyfnach)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Fideo yn Unig"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Gweld sgrinluniau wedi'u dal"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Methodd cipio gwe: Nid yw cydio ar gael"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "hir ' gellir ei ddefnyddio."
 
 msgid "long:"
-msgstr ""
+msgstr "hir:"
 
 msgid "no message"
-msgstr ""
+msgstr "dim neges"
 
 msgid "no timeout"
-msgstr ""
+msgstr "dim goramser"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "arhoswch, llwytho llun..."

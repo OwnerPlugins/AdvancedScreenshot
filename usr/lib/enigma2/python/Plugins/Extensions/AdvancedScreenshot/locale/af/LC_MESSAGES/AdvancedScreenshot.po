@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'knoppie in plaas van'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Voeg -n opsie by om geen strek te dwing nie."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Voeg briewebus by as bron 16:9 is."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Gevorderde skermkiekie"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Gevorderde skermkiekiegalery"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Gevorderde skermkiekie-opstelling"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Voer altyd 4:3-beeld uit"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Voer altyd 4:3-beeld uit (voeg briewebus by as bron 16:9 is)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Stoor altyd skermkiekies"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Is jy seker jy wil hierdie skermkiekie uitvee?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Kies watter knoppie skermkiekie aktiveer."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Verstek resolusie"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Kon nie uitvee nie:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Aktiveer of deaktiveer die Advanced Screenshot-inprop."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Aktiveer inprop"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Fout tydens opname:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Kon nie gallery laai nie:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Stel aspekverhouding reg"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Maak aspekverhouding reg (voeg -n by om geen strek te dwing nie)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Voer waar skermkiekies gestoor word."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Vries raamvoorskou"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Vries die raamvoorskou wanneer jy skermkiekie neem."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Hardeskyf"
 
 msgid "Image format"
-msgstr ""
+msgstr "Beeldformaat"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Lang druk moet vir hierdie knoppie gebruik word."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Lang druk benodig vir"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Lang druk benodig vir knoppie"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Boodskap-uitteltyd (sekondes)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Netwerk mount"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Slegs OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Druk OK om te stoor - EXIT om te kanselleer"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Druk tik vir"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Druk tik vir knoppie"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professionele skermkiekie-instrument"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Resolusie"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Stoor pad (vereis herbegin)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Stoor skermkiekies selfs al is raam gevries."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Skermskoot suksesvol gestoor!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Kies skermkiekie-knoppie"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Kies die beeldformaat vir skermkiekies."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Kies die resolusie vir skermkiekies."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Stel druktipe vir knoppie in plaas van lang druk."
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellings"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Stadiger maar gladder beeldverandering."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Tydelik"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Tyd om boodskappe op die skerm te vertoon."
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekend"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Gebruik bikubiese grootteverandering"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Gebruik bikubiese grootteverandering (stadiger, maar gladder beeld)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Slegs video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Bekyk gevange skermkiekies"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Webvaslegging het misluk: Gryp nie beskikbaar nie"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "lank ' kan gebruik word."
 
 msgid "long:"
-msgstr ""
+msgstr "lank:"
 
 msgid "no message"
-msgstr ""
+msgstr "geen boodskap nie"
 
 msgid "no timeout"
-msgstr ""
+msgstr "geen time-out nie"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "wag asseblief, laai foto..."

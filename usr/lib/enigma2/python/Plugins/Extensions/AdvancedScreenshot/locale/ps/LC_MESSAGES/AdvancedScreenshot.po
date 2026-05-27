@@ -10,82 +10,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "د پر ځای تڼۍ"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "د اضافې کولو اختیار د جبري کولو لپاره نه دی."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "د لیک بکس اضافه کړئ که سرچینه 16:9 وي."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "پرمختللی سکرین شاټ"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "پرمختللی سکرین شاټ ګالری"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "پرمختللي سکرین شاټ تنظیم کول"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "تل د 4:3 انځور تولید کړئ"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "تل د 4:3 عکس تولید کړئ (که چیرې سرچینه 16:9 وي د لیک بکس اضافه کوي)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "تل سکرین شاټونه خوندي کړئ"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "ایا تاسو ډاډه یاست چې دا سکرین شاټ حذف کول غواړئ؟"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "غوره کړئ چې کوم تڼۍ د سکرین شاټ محرک کوي."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ډیفالټ حل"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ړنګول ناکام شول:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "د پرمختللي سکرین شاټ پلگ ان فعال یا غیر فعال کړئ."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "پلگ ان فعال کړئ"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "د نيولو پر مهال تېروتنه:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "د ګالري په پورته کولو کې تېروتنه:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "د اړخ تناسب درست کړئ"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "د اړخ تناسب درست کړئ (د نه غځولو لپاره -n اضافه کړئ)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "هغه فولډر چیرې چې سکرین شاټونه خوندي شوي."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "فریز فریم مخکتنه"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "د سکرین شاټ اخیستو پرمهال د چوکاټ مخکتنه کنګل کړئ."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "هارډ ډیسک"
 
 msgid "Image format"
-msgstr ""
+msgstr "د انځور بڼه"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100٪"
 
 msgid "JPEG 60%"
 msgstr ""
@@ -94,112 +94,112 @@ msgid "JPEG 80%"
 msgstr ""
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90٪"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "د دې تڼۍ لپاره باید اوږد فشار وکارول شي."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "اوږد فشار ته اړتیا ده"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "د تڼۍ لپاره اوږد فشار ته اړتیا ده"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "د پیغام مهال ویش (ثانوي)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "د شبکې نصبول"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + ویډیو"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "یوازې OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "د خوندي کولو لپاره OK فشار ورکړئ - د لغوه کولو لپاره EXIT"
 
 msgid "Press type for"
-msgstr ""
+msgstr "لپاره ټایپ فشار ورکړئ"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "د تڼۍ لپاره ډول فشار ورکړئ"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "د سکرین شاټ مسلکي وسیله"
 
 msgid "Resolution"
-msgstr ""
+msgstr "قرارداد"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "لاره خوندي کړئ (بیا پیل ته اړتیا لري)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "سکرین شاټونه خوندي کړئ حتی که چوکاټ منجمد وي."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "سکرین شاټ په بریالیتوب سره خوندي شو!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "د سکرین شاټ تڼۍ غوره کړئ"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "د سکرین شاټونو لپاره د عکس بڼه غوره کړئ."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "د سکرین شاټونو لپاره ریزولوشن غوره کړئ."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "د اوږد فشار پرځای د تڼۍ لپاره د پریس ډول تنظیم کړئ."
 
 msgid "Settings"
-msgstr ""
+msgstr "ترتیبات"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "ورو مګر اسانه عکس ریزیز کول."
 
 msgid "Temporary"
-msgstr ""
+msgstr "موقتي"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "په سکرین کې د پیغامونو ښودلو وخت."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB ډرایو"
 
 msgid "Unknown"
-msgstr ""
+msgstr "نامعلوم"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "د بایکوبیک اندازه وکاروئ"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "د بایکوبیک اندازې څخه کار واخلئ (ورو، مګر نرم انځور)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "یوازې ویډیو"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "نیول شوي سکرین شاټونه وګورئ"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "د ویب نیول ناکام شول: غصب شتون نلري"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "اوږد' کارول کیدی شي."
 
 msgid "long:"
-msgstr ""
+msgstr "اوږده:"
 
 msgid "no message"
-msgstr ""
+msgstr "هیڅ پیغام نشته"
 
 msgid "no timeout"
-msgstr ""
+msgstr "هیڅ وخت ختم نه دی"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "مهرباني وکړئ انتظار وکړئ، انځور پورته کول ..."

@@ -38,7 +38,7 @@ msgid "Advanced Screenshot Setup"
 msgstr "Screenshot avanzato"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Emette sempre immagini in formato 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
 msgstr "Emetti sempre un'immagine 4:3 (aggiunge il letterbox se la sorgente è 16:9)"
@@ -53,7 +53,7 @@ msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Scegli quale pulsante attiva lo screenshot."
 
 msgid "Default Resolution"
 msgstr "Risoluzione predefinita"
@@ -63,13 +63,13 @@ msgid "Delete failed:"
 msgstr "Eliminazione non riuscita: "
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Abilita o disabilita il plugin Advanced Screenshot."
 
 msgid "Enable plugin"
 msgstr "Abilita plugin"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Errore durante l'acquisizione:\n"
 "Errore durante la cattura:\n"
 " \n"
 
@@ -78,37 +78,37 @@ msgid "Error loading gallery:"
 msgstr "Errore durante il caricamento della galleria: "
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Correggi le proporzioni"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
 msgstr "Correggi le proporzioni (aggiungi -n per forzare nessun allungamento)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Cartella in cui vengono salvati gli screenshot."
 
 msgid "Freeze frame preview"
 msgstr "Anteprima del fermo immagine"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Blocca l'anteprima del fotogramma durante lo screenshot."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disco rigido"
 
 msgid "Image format"
 msgstr "Formato Immagine"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "Jpeg100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG60%"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "Jpeg 80%"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "Jpeg90%"
 
 #, fuzzy
 msgid "Long press must be used for this button."
@@ -125,7 +125,7 @@ msgid "Message timeout (seconds)"
 msgstr "Timeout del messaggio (secondi)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montaggio in rete"
 
 msgid "OSD + Video"
 msgstr "OSD + Video"
@@ -157,7 +157,7 @@ msgid "Save path (requires restart)"
 msgstr "Salva percorso (richiede il riavvio)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Salva gli screenshot anche se il fotogramma è bloccato."
 
 msgid "Screenshot saved successfully!"
 msgstr "Screenshot salvato con successo!"
@@ -166,34 +166,34 @@ msgid "Select screenshot button"
 msgstr "Seleziona il pulsante per lo screenshot"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Seleziona il formato immagine per gli screenshot."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Seleziona la risoluzione per gli screenshot."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Imposta il tipo di pressione del pulsante anziché la pressione prolungata."
 
 msgid "Settings"
 msgstr "Impostazioni"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Ridimensionamento delle immagini più lento ma più fluido."
 
 msgid "Temporary"
 msgstr "Temporanea"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "È ora di visualizzare i messaggi sullo schermo."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Unità USB"
 
 msgid "Unknown"
 msgstr "Sconosciuto"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Utilizza il ridimensionamento bicubico"
 
 msgid "Use bicubic resize (slower, but smoother image)"
 msgstr "Utilizza il ridimensionamento bicubico (immagine più lenta, ma più fluida)"
@@ -205,7 +205,7 @@ msgid "View captured screenshots"
 msgstr "Mostra Screenshots catturato"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Acquisizione Web non riuscita: acquisizione non disponibile"
 
 #, fuzzy
 msgid "long ' can be used."
@@ -222,7 +222,7 @@ msgid "no timeout"
 msgstr "nessun timeout"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "attendere, caricamento immagine..."
 
 #~ msgid "Button behavior warning"
 #~ msgstr "Avviso sul comportamento del pulsante"

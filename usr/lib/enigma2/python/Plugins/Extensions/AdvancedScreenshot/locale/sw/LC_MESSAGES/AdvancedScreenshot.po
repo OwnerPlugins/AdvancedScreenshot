@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'kifungo badala ya'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Ongeza -n chaguo kulazimisha hakuna kunyoosha."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Ongeza kisanduku cha barua ikiwa chanzo ni 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Picha ya Juu ya skrini"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Matunzio Mahiri ya Picha za skrini"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Mipangilio ya Kina ya Picha ya skrini"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Toa picha ya 4:3 kila wakati"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Toa picha ya 4:3 kila wakati (huongeza kisanduku cha barua ikiwa chanzo ni 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Hifadhi picha za skrini kila wakati"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Je, una uhakika unataka kufuta picha hii ya skrini?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Chagua ni kitufe kipi kinachoanzisha picha ya skrini."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Azimio Chaguomsingi"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Imeshindwa kufuta:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Washa au zima programu-jalizi ya Picha ya Kina ya skrini."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Washa programu-jalizi"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Hitilafu wakati wa kunasa:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Hitilafu katika kupakia ghala:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Rekebisha uwiano"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Rekebisha uwiano wa kipengele (huongeza -n ili kulazimisha hakuna kunyoosha)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Folda ambayo picha za skrini zimehifadhiwa."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Fanya onyesho la kukagua fremu"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Fanya onyesho la kukagua fremu wakati unapiga picha ya skrini."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Diski Ngumu"
 
 msgid "Image format"
-msgstr ""
+msgstr "Umbizo la picha"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Bonyeza kwa muda mrefu lazima kitumike kwa kitufe hiki."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Bonyeza kwa muda mrefu inahitajika"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Bonyeza kwa muda mrefu inahitajika kwa kitufe"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Muda wa ujumbe umekwisha (sekunde)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Mlima wa mtandao"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD Pekee"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Bonyeza SAWA ili kuhifadhi - EXIT ili kughairi"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Bonyeza aina kwa"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Bonyeza aina kwa kitufe"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Zana ya kitaalam ya kupiga picha skrini"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Azimio"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Hifadhi njia (inahitaji kuanzisha upya)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Hifadhi picha za skrini hata ikiwa fremu imegandishwa."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Picha ya skrini imehifadhiwa!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Chagua kitufe cha picha ya skrini"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Chagua umbizo la picha kwa picha za skrini."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Chagua azimio la picha za skrini."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Weka aina ya bonyeza kwa kitufe badala ya kubonyeza kwa muda mrefu."
 
 msgid "Settings"
-msgstr ""
+msgstr "Mipangilio"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Inapunguza ukubwa wa picha lakini laini zaidi."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Muda"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Ni wakati wa kuonyesha ujumbe kwenye skrini."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Hifadhi ya USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Haijulikani"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Tumia ukubwa wa bicubic"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Tumia kubadilisha ukubwa wa bicubic (picha ya polepole, lakini laini)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Video Pekee"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Tazama picha za skrini zilizopigwa"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Ukamataji wa wavuti haukufaulu: Kunyakua hakupatikani"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long' inaweza kutumika."
 
 msgid "long:"
-msgstr ""
+msgstr "ndefu:"
 
 msgid "no message"
-msgstr ""
+msgstr "hakuna ujumbe"
 
 msgid "no timeout"
-msgstr ""
+msgstr "hakuna muda kuisha"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "tafadhali subiri, inapakia picha..."

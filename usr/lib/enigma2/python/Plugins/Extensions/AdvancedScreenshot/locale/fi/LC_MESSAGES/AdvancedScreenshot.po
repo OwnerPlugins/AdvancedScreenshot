@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'-painike ':n sijaan"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Lisää -n-vaihtoehto pakottaaksesi olemaan venyttely."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Lisää kirjelaatikko, jos lähde on 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Edistynyt kuvakaappaus"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Edistynyt kuvakaappausgalleria"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Advanced Screenshot -asetukset"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Tulostaa aina 4:3 kuvan"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Tulostaa aina 4:3-kuvan (lisää kirjelaatikon, jos lähde on 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Tallenna aina kuvakaappaukset"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Haluatko varmasti poistaa tämän kuvakaappauksen?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Valitse, mikä painike laukaisee kuvakaappauksen."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Oletusresoluutio"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Poistaminen epäonnistui:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Ota Advanced Screenshot -laajennus käyttöön tai poista se käytöstä."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Ota laajennus käyttöön"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Virhe sieppauksen aikana:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Virhe ladattaessa galleriaa:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Korjaa kuvasuhde"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Korjaa kuvasuhde (lisää -n välttääksesi venytystä)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Kansio, johon kuvakaappaukset tallennetaan."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Pysäytyskehyksen esikatselu"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Pysäytä kehyksen esikatselu kuvakaappausta otettaessa."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Kiintolevy"
 
 msgid "Image format"
-msgstr ""
+msgstr "Kuvan muoto"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100 %"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Tätä painiketta on painettava pitkään."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Tarvitaan pitkä painallus"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Painiketta varten tarvitaan pitkä painallus"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Viestin aikakatkaisu (sekuntia)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Verkkokiinnitys"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + video"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Vain OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Paina OK tallentaaksesi - EXIT peruuttaaksesi"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Paina tyyppiä varten"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Paina painikkeen tyyppiä"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Ammattimainen kuvakaappaustyökalu"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Resoluutio"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Tallenna polku (vaatii uudelleenkäynnistyksen)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Tallenna kuvakaappaukset, vaikka kehys olisi jumiutunut."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Kuvakaappaus tallennettu onnistuneesti!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Valitse kuvakaappauspainike"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Valitse kuvamuoto kuvakaappauksille."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Valitse kuvakaappausten resoluutio."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Aseta painikkeen painotyyppi pitkän painalluksen sijaan."
 
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Hitaampi mutta tasaisempi kuvan koon muuttaminen."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Väliaikainen"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Aika näyttää viestit näytöllä."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-asema"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Tuntematon"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Käytä bicubic-kokoa"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Käytä bicubic-kokoa (hitaampi, mutta tasaisempi kuva)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Vain video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Katso kaapattuja kuvakaappauksia"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Verkkokaappaus epäonnistui: Kaappaus ei ole käytettävissä"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "pitkää ' voidaan käyttää."
 
 msgid "long:"
-msgstr ""
+msgstr "pitkä:"
 
 msgid "no message"
-msgstr ""
+msgstr "ei viestiä"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ei aikakatkaisua"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "odota, kuvaa ladataan..."

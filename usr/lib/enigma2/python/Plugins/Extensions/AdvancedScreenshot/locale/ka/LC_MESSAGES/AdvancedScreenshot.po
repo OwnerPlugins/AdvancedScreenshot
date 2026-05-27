@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr ""ღილაკი" ნაცვლად"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "დაამატეთ -n ვარიანტი, რათა აიძულოთ არ დაჭიმოთ."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "დაამატეთ წერილის ყუთი, თუ წყარო არის 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "გაფართოებული სკრინშოტი"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "გაფართოებული ეკრანის გალერეა"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "სკრინშოტის გაფართოებული დაყენება"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "ყოველთვის გამოიტანეთ 4:3 სურათი"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "ყოველთვის გამოიტანეთ 4:3 სურათი (დაამატებს წერილების ყუთს, თუ წყარო არის 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "ყოველთვის შეინახეთ ეკრანის ანაბეჭდები"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ ეკრანის ანაბეჭდის წაშლა?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "აირჩიეთ რომელი ღილაკი ააქტიურებს ეკრანის ანაბეჭდს."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ნაგულისხმევი რეზოლუცია"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "წაშლა ვერ მოხერხდა:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "ჩართეთ ან გამორთეთ Advanced Screenshot მოდული."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "მოდულის ჩართვა"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "შეცდომა გადაღების დროს:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "შეცდომა გალერეის ჩატვირთვისას:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "შეასწორეთ ასპექტის თანაფარდობა"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "ასპექტის თანაფარდობის დაფიქსირება (დაამატებს -n რათა არ აიძულოს დაჭიმვა)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "საქაღალდე, სადაც ეკრანის ანაბეჭდები ინახება."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "ჩარჩოს გადახედვის გაყინვა"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "გაყინეთ კადრის გადახედვა სკრინშოტის გადაღებისას."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "მყარი დისკი"
 
 msgid "Image format"
-msgstr ""
+msgstr "გამოსახულების ფორმატი"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ამ ღილაკისთვის უნდა იქნას გამოყენებული ხანგრძლივი დაჭერა."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "საჭიროა ხანგრძლივი დაჭერა"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "ღილაკისთვის საჭიროა ხანგრძლივი დაჭერა"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "შეტყობინების ვადა (წამი)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "ქსელის დამაგრება"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + ვიდეო"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD მხოლოდ"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "დააჭირეთ OK შესანახად - EXIT გასაუქმებლად"
 
 msgid "Press type for"
-msgstr ""
+msgstr "დააჭირეთ ტიპი ამისთვის"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "დააჭირეთ ტიპის ღილაკს"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "პროფესიონალური სკრინშოტის ინსტრუმენტი"
 
 msgid "Resolution"
-msgstr ""
+msgstr "რეზოლუცია"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "ბილიკის შენახვა (საჭიროებს გადატვირთვას)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "შეინახეთ ეკრანის ანაბეჭდები მაშინაც კი, თუ ჩარჩო გაყინულია."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "სკრინშოტი წარმატებით შენახულია!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "აირჩიეთ ეკრანის ღილაკი"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "აირჩიეთ გამოსახულების ფორმატი ეკრანის ანაბეჭდებისთვის."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "აირჩიეთ გარჩევადობა ეკრანის ანაბეჭდებისთვის."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "დააყენეთ პრესის ტიპი ღილაკისთვის ხანგრძლივი დაჭერის ნაცვლად."
 
 msgid "Settings"
-msgstr ""
+msgstr "პარამეტრები"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "სურათის ზომის შეცვლა უფრო ნელი, მაგრამ გლუვია."
 
 msgid "Temporary"
-msgstr ""
+msgstr "დროებითი"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "დროა გამოჩნდეს შეტყობინებები ეკრანზე."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB დისკი"
 
 msgid "Unknown"
-msgstr ""
+msgstr "უცნობი"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "გამოიყენეთ ბიკუბური ზომის შეცვლა"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "გამოიყენეთ ბიკუბური ზომის შეცვლა (ნელი, მაგრამ უფრო გლუვი სურათი)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "მხოლოდ ვიდეო"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "გადაღებული ეკრანის ანაბეჭდების ნახვა"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "ვებ გადაღება ვერ მოხერხდა: Grab მიუწვდომელია"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "ხანგრძლივი' შეიძლება გამოყენებულ იქნას."
 
 msgid "long:"
-msgstr ""
+msgstr "გრძელი:"
 
 msgid "no message"
-msgstr ""
+msgstr "არანაირი შეტყობინება"
 
 msgid "no timeout"
-msgstr ""
+msgstr "არ არის დრო"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "გთხოვთ დაელოდოთ, იტვირთება სურათი..."

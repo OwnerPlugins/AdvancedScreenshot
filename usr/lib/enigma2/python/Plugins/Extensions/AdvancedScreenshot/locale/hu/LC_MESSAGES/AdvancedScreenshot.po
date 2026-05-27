@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' gomb helyett'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Adja hozzá az -n opciót, hogy ne kényszerítse ki a nyújtást."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Adjon hozzá levélszekrényt, ha a forrás 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Speciális képernyőkép"
 
 msgid "Advanced Screenshot Gallery"
 msgstr ""
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Speciális képernyőkép-beállítás"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Mindig 4:3 képarányú képet ad ki"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Mindig 4:3 képarányú képet ad ki (a 16:9-es forrás esetén levélszekrényt ad hozzá)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Mindig mentse a képernyőképeket"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Biztosan törli ezt a képernyőképet?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Válassza ki, hogy melyik gomb aktiválja a képernyőképet."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Alapértelmezett felbontás"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "A törlés nem sikerült:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Engedélyezze vagy tiltsa le az Advanced Screenshot beépülő modult."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Beépülő modul engedélyezése"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Hiba a rögzítés során:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Hiba a galéria betöltésekor:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "A képarány rögzítése"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Képarány rögzítése (-n hozzáadása a nyújtás elkerüléséhez)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Mappa, ahová a képernyőképeket menti."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Kimerevített képkocka előnézete"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Képernyőkép készítésekor rögzítse a keret előnézetét."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Merevlemez"
 
 msgid "Image format"
-msgstr ""
+msgstr "Képformátum"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Ehhez a gombhoz hosszan kell nyomni."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Hosszú megnyomás szükséges"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "A gomb hosszú megnyomása szükséges"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Üzenet időtúllépése (másodperc)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Hálózati rögzítés"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Videó"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Csak OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Nyomja meg az OK gombot a mentéshez - EXIT a törléshez"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Nyomja meg a típust"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Nyomja meg a gomb típusát"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professzionális képernyőkép eszköz"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Felbontás"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Útvonal mentése (újraindítás szükséges)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Mentse el a képernyőképeket akkor is, ha a keret lefagyott."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "A képernyőkép sikeresen elmentve!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Válassza ki a képernyőkép gombot"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Válassza ki a képernyőképek képformátumát."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Válassza ki a képernyőképek felbontását."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Állítsa be a gombnyomás típusát a hosszú megnyomás helyett."
 
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások elemre"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Lassabb, de simább képméretezés."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Ideiglenes"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Az üzenetek képernyőn való megjelenítésének ideje."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB meghajtó"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Ismeretlen"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Használjon bicubic átméretezést"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Használjon bicubos átméretezést (lassabb, de simább kép)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Csak videó"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Rögzített képernyőképek megtekintése"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Sikertelen webrögzítés: A megragadás nem érhető el"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "hosszú ' használható."
 
 msgid "long:"
-msgstr ""
+msgstr "hosszú:"
 
 msgid "no message"
-msgstr ""
+msgstr "nincs üzenet"
 
 msgid "no timeout"
-msgstr ""
+msgstr "nincs időkorlát"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "kérlek várj, kép betöltődik..."

@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "ئۇنىڭ ئورنىغا 'كۇنۇپكا'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "سوزۇلماسلىققا -n تاللانمىسىنى قوشۇڭ."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "مەنبە 16: 9 بولسا خەت ساندۇقىنى قوشۇڭ."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "ئىلغار ئېكران رەسىمى"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "ئىلغار ئېكران رەسىمى"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "ئىلغار ئېكران كۆرۈنۈش تەڭشىكى"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "ھەمىشە 4: 3 رەسىم چىقىدۇ"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "ھەمىشە 4: 3 رەسىم چىقىرىڭ (ئەگەر مەنبە 16: 9 بولسا خەت ساندۇقىنى قوشىدۇ)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "ئېكران كۆرۈنۈشلىرىنى ھەمىشە ساقلاڭ"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "بۇ ئېكران رەسىمىنى ئۆچۈرمەكچىمۇ؟"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "قايسى كۇنۇپكىنىڭ ئېكران كۆرۈنۈشىنى قوزغىتىدىغانلىقىنى تاللاڭ."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "سۈكۈتتىكى ئېنىقلىق"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ئۆچۈرۈش مەغلۇپ بولدى:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Advanced Screenshot قىستۇرمىسىنى قوزغىتىش ياكى چەكلەش."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "قىستۇرمىنى قوزغىتىڭ"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "تۇتۇش جەريانىدا خاتالىق: \ n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "يۈكلەش كارىدورى:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "نىسبەت نىسبىتىنى توغرىلاڭ"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "تەرەپ نىسبىتىنى توغرىلاڭ (سوزۇلماسلىققا -n نى قوشىدۇ)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "ئېكران كۆرۈنۈشلىرى ساقلانغان ھۆججەت قىسقۇچ."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "رامكىنى ئالدىن كۆرۈش"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "ئېكران رەسىمىنى تارتقاندا رامكا ئالدىن كۆرۈشنى توڭلىتىڭ."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "قاتتىق دىسكا"
 
 msgid "Image format"
-msgstr ""
+msgstr "رەسىم فورماتى"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -91,22 +91,22 @@ msgid "JPEG 60%"
 msgstr ""
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG% 80"
 
 msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "بۇ كۇنۇپكا ئۈچۈن ئۇزۇن بېسىش كېرەك."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "ئۇزۇن بېسىش تەلەپ قىلىنىدۇ"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "كۇنۇپكا ئۈچۈن ئۇزۇن بېسىش كېرەك"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "ئۇچۇر ۋاقتى (سېكۇنت)"
 
 msgid "Network mount"
 msgstr ""
@@ -115,91 +115,91 @@ msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "پەقەت OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "ساقلاش ئۈچۈن OK نى بېسىڭ - ئەمەلدىن قالدۇرۇڭ"
 
 msgid "Press type for"
-msgstr ""
+msgstr "ئۈچۈن بېسىش تىپى"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "كۇنۇپكىنى بېسىڭ"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "كەسپىي ئېكران قورالى"
 
 msgid "Resolution"
-msgstr ""
+msgstr "قارار"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "يولنى ساقلاش (قايتا قوزغىتىشنى تەلەپ قىلىدۇ)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "رامكا توڭلىتىلغان تەقدىردىمۇ ئېكران كۆرۈنۈشلىرىنى تېجەڭ."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "ئېكران مۇۋەپپەقىيەتلىك ساقلاندى!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "ئېكران كۆرۈنۈش كۇنۇپكىسىنى تاللاڭ"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "ئېكران كۆرۈنۈشلىرىنىڭ رەسىم فورماتىنى تاللاڭ."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "ئېكران كۆرۈنۈشلىرىنىڭ ئېنىقلىق دەرىجىسىنى تاللاڭ."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "ئۇزۇن بېسىشنىڭ ئورنىغا كۇنۇپكىنى بېسىڭ."
 
 msgid "Settings"
-msgstr ""
+msgstr "تەڭشەك"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "رەسىمنىڭ رازمېرى ئاستا ، ئەمما راۋان."
 
 msgid "Temporary"
-msgstr ""
+msgstr "ۋاقىتلىق"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "ئېكراندا ئۇچۇر كۆرسىتىدىغان ۋاقىت."
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "نامەلۇم"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Bicubic چوڭلۇقىنى ئىشلىتىڭ"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "ئىككى قۇتۇپلۇق چوڭلۇقتا ئىشلىتىڭ (ئاستا ، ئەمما سىلىقراق ​​رەسىم)"
 
 msgid "Video Only"
 msgstr ""
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "تارتىلغان ئېكران كۆرۈنۈشلىرىنى كۆرۈش"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "تور تۇتۇش مەغلۇب بولدى: تۇتقىلى بولمايدۇ"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long 'نى ئىشلىتىشكە بولىدۇ."
 
 msgid "long:"
 msgstr ""
 
 msgid "no message"
-msgstr ""
+msgstr "ھېچقانداق ئۇچۇر يوق"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ۋاقىت يوق"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ساقلاپ تۇرۇڭ ، رەسىم يۈكلەڭ ..."

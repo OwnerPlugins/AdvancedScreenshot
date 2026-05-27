@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "bouton ' au lieu de '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Ajoutez l’option -n pour ne forcer aucun étirement."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Ajoutez une boîte aux lettres si la source est 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Capture d'écran avancée"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Galerie de captures d'écran avancées"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Configuration avancée des captures d'écran"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Produit toujours une image 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Produit toujours une image 4:3 (ajoute une boîte aux lettres si la source est 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Enregistrez toujours les captures d'écran"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer cette capture d'écran ?"
 
 msgid "BMP"
-msgstr ""
+msgstr "PGB"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Choisissez quel bouton déclenche la capture d'écran."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Résolution par défaut"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Échec de la suppression :"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Activez ou désactivez le plugin Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Activer le plug-in"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Erreur lors de la capture :\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Erreur lors du chargement de la galerie :"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Correction du rapport hauteur/largeur"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Correction du rapport hauteur/largeur (ajoute -n pour ne forcer aucun étirement)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Dossier où les captures d'écran sont enregistrées."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Aperçu sur image figée"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Gelez l'aperçu du cadre lors de la capture d'écran."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disque dur"
 
 msgid "Image format"
-msgstr ""
+msgstr "Format des images"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Un appui long doit être utilisé pour ce bouton."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Appui long requis pour"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Appui long requis pour le bouton"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Délai d'expiration du message (secondes)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montage réseau"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Vidéo"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD uniquement"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Appuyez sur OK pour enregistrer - EXIT pour annuler"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Appuyez sur le type pour"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Appuyez sur le type pour le bouton"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Outil de capture d'écran professionnel"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Résolution"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Enregistrer le chemin (nécessite un redémarrage)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Enregistrez les captures d'écran même si le cadre est gelé."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Capture d'écran enregistrée avec succès !"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Sélectionnez le bouton de capture d'écran"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Sélectionnez le format d'image pour les captures d'écran."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Sélectionnez la résolution des captures d'écran."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Définissez le type de pression pour le bouton au lieu d’un appui long."
 
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Redimensionnement de l'image plus lent mais plus fluide."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Temporaire"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Il est temps d'afficher les messages à l'écran."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Clé USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Utiliser le redimensionnement bicubique"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Utiliser le redimensionnement bicubique (image plus lente mais plus fluide)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Vidéo uniquement"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Afficher les captures d'écran capturées"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Échec de la capture Web : capture non disponible"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' peut être utilisé."
 
 msgid "long:"
 msgstr ""
 
 msgid "no message"
-msgstr ""
+msgstr "pas de message"
 
 msgid "no timeout"
-msgstr ""
+msgstr "pas de délai d'attente"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "veuillez patienter, chargement de l'image..."

@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' 대신 ' 버튼"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "강제로 스트레칭을 하지 않으려면 -n 옵션을 추가하세요."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "소스가 16:9인 경우 레터박스를 추가합니다."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "고급 스크린샷"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "고급 스크린샷 갤러리"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "고급 스크린샷 설정"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "항상 4:3 이미지 출력"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "항상 4:3 이미지 출력(소스가 16:9인 경우 레터박스 추가)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "항상 스크린샷을 저장하세요"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "이 스크린샷을 삭제하시겠습니까?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "스크린샷을 실행할 버튼을 선택하세요."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "기본 해상도"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "삭제 실패:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "고급 스크린샷 플러그인을 활성화 또는 비활성화합니다."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "플러그인 활성화"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "캡처 중 오류:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "갤러리 로드 중 오류 발생:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "종횡비 수정"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "종횡비 수정(스트레칭을 강제하지 않으려면 -n을 추가함)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "스크린샷이 저장되는 폴더입니다."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "프레임 미리보기 고정"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "스크린샷을 찍을 때 프레임 미리보기를 고정합니다."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "하드디스크"
 
 msgid "Image format"
-msgstr ""
+msgstr "이미지 형식"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "이 버튼은 길게 눌러야 합니다."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "길게 눌러야 함"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "버튼을 길게 눌러야 함"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "메시지 시간 초과(초)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "네트워크 마운트"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + 비디오"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD만"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "저장하려면 확인을 누르고, 취소하려면 종료를 누르세요."
 
 msgid "Press type for"
-msgstr ""
+msgstr "프레스 유형"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "버튼 누르기 유형"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "전문 스크린샷 도구"
 
 msgid "Resolution"
-msgstr ""
+msgstr "해결"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "경로 저장(다시 시작해야 함)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "프레임이 정지된 경우에도 스크린샷을 저장하세요."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "스크린샷이 저장되었습니다!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "스크린샷 버튼 선택"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "스크린샷의 이미지 형식을 선택합니다."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "스크린샷의 해상도를 선택하세요."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "길게 누르는 대신 버튼 누르기 유형을 설정합니다."
 
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "느리지만 더 부드러운 이미지 크기 조정."
 
 msgid "Temporary"
-msgstr ""
+msgstr "일시적인"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "화면에 메시지를 표시할 시간입니다."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 드라이브"
 
 msgid "Unknown"
-msgstr ""
+msgstr "알려지지 않은"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "쌍입방 크기 조정 사용"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "쌍입방 크기 조정 사용(느리지만 더 부드러운 이미지)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "비디오 전용"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "캡처된 스크린샷 보기"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "웹 캡처 실패: 그랩을 사용할 수 없음"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "길다'를 사용할 수 있다."
 
 msgid "long:"
-msgstr ""
+msgstr "긴:"
 
 msgid "no message"
-msgstr ""
+msgstr "메시지 없음"
 
 msgid "no timeout"
-msgstr ""
+msgstr "시간 초과 없음"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "사진을 로드하는 중입니다..."

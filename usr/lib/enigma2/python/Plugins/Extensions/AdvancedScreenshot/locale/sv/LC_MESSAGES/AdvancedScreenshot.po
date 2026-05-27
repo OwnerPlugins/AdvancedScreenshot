@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'-knappen istället för'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Lägg till -n alternativ för att tvinga ingen stretching."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Lägg till brevlåda om källan är 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Avancerad skärmdump"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Avancerat skärmbildsgalleri"
 
 msgid "Advanced Screenshot Setup"
 msgstr ""
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Mata alltid ut 4:3-bild"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Mata alltid ut 4:3-bild (lägger till letterbox om källan är 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Spara alltid skärmdumpar"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Är du säker på att du vill ta bort den här skärmdumpen?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Välj vilken knapp som utlöser skärmdump."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Standardupplösning"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Det gick inte att ta bort:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Aktivera eller inaktivera plugin-programmet Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Aktivera plugin"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Fel under inspelning:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Det gick inte att läsa in galleriet:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Fixa bildförhållande"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Fixa bildförhållande (lägger till -n för att tvinga fram ingen sträckning)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Mapp där skärmdumpar sparas."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Frys bildruta förhandsvisning"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Frys förhandsgranskningen av ramen när du tar skärmdump."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Hårddisk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Bildformat"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100 %"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Långt tryck måste användas för denna knapp."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Långt tryck krävs för"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Långt tryck krävs för knappen"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Timeout för meddelandet (sekunder)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Nätverksfäste"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + video"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Endast OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Tryck på OK för att spara - AVSLUTA för att avbryta"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Tryck typ för"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Tryck på typ för knapp"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professionellt verktyg för skärmdumpar"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Upplösning"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Spara sökväg (kräver omstart)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Spara skärmdumpar även om ramen är frusen."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Skärmdumpen har sparats!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Välj skärmdump-knapp"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Välj bildformat för skärmdumpar."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Välj upplösning för skärmdumpar."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Ställ in trycktyp för knapp istället för lång tryckning."
 
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Långsammare men jämnare bildstorlek."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Tillfällig"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Dags att visa meddelanden på skärmen."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-enhet"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Okänd"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Använd bikubisk storleksändring"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Använd bikubisk storleksändring (långsammare men jämnare bild)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Endast video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Visa tagna skärmdumpar"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Webbinspelning misslyckades: Grab inte tillgänglig"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "lång ' kan användas."
 
 msgid "long:"
-msgstr ""
+msgstr "lång:"
 
 msgid "no message"
-msgstr ""
+msgstr "inget meddelande"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ingen timeout"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "snälla vänta, laddar bilden..."

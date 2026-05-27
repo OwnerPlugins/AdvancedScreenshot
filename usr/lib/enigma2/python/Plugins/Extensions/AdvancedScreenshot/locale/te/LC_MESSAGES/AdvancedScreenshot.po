@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'బదులుగా' బటన్"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "బలవంతంగా సాగదీయకుండా ఉండేందుకు -n ఎంపికను జోడించండి."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "మూలం 16:9 అయితే లెటర్‌బాక్స్‌ని జోడించండి."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "అధునాతన స్క్రీన్‌షాట్"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "అధునాతన స్క్రీన్‌షాట్ గ్యాలరీ"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "అధునాతన స్క్రీన్‌షాట్ సెటప్"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "ఎల్లప్పుడూ 4:3 చిత్రాన్ని అవుట్‌పుట్ చేయండి"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "ఎల్లప్పుడూ 4:3 చిత్రాన్ని అవుట్‌పుట్ చేయండి (మూలం 16:9 అయితే లెటర్‌బాక్స్‌ని జోడిస్తుంది)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "స్క్రీన్‌షాట్‌లను ఎల్లప్పుడూ సేవ్ చేయండి"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "మీరు ఖచ్చితంగా ఈ స్క్రీన్‌షాట్‌ని తొలగించాలనుకుంటున్నారా?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "స్క్రీన్‌షాట్‌ని ఏ బటన్ ట్రిగ్గర్ చేస్తుందో ఎంచుకోండి."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "డిఫాల్ట్ రిజల్యూషన్"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "తొలగించడం విఫలమైంది:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "అధునాతన స్క్రీన్‌షాట్ ప్లగిన్‌ను ప్రారంభించండి లేదా నిలిపివేయండి."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "ప్లగిన్‌ని ప్రారంభించండి"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "క్యాప్చర్ సమయంలో లోపం:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "గ్యాలరీని లోడ్ చేయడంలో లోపం:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "కారక నిష్పత్తిని పరిష్కరించండి"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "కారక నిష్పత్తిని పరిష్కరించండి (సాగదీయకుండా బలవంతంగా -n జోడిస్తుంది)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "స్క్రీన్‌షాట్‌లు సేవ్ చేయబడిన ఫోల్డర్."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "ఫ్రేమ్ ప్రివ్యూను ఫ్రీజ్ చేయండి"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "స్క్రీన్‌షాట్ తీసేటప్పుడు ఫ్రేమ్ ప్రివ్యూను స్తంభింపజేయండి."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "హార్డ్ డిస్క్"
 
 msgid "Image format"
-msgstr ""
+msgstr "చిత్రం ఫార్మాట్"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ఈ బటన్ కోసం లాంగ్ ప్రెస్ తప్పనిసరిగా ఉపయోగించాలి."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "కోసం లాంగ్ ప్రెస్ అవసరం"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "బటన్ కోసం ఎక్కువసేపు నొక్కడం అవసరం"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "సందేశం గడువు ముగిసింది (సెకన్లు)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "నెట్‌వర్క్ మౌంట్"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + వీడియో"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD మాత్రమే"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "సేవ్ చేయడానికి సరే నొక్కండి - రద్దు చేయడానికి నిష్క్రమించండి"
 
 msgid "Press type for"
-msgstr ""
+msgstr "కోసం టైప్ నొక్కండి"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "బటన్ కోసం టైప్ నొక్కండి"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "వృత్తిపరమైన స్క్రీన్‌షాట్ సాధనం"
 
 msgid "Resolution"
-msgstr ""
+msgstr "రిజల్యూషన్"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "మార్గాన్ని సేవ్ చేయండి (పునఃప్రారంభం అవసరం)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "ఫ్రేమ్ స్తంభింపజేసినప్పటికీ స్క్రీన్‌షాట్‌లను సేవ్ చేయండి."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "స్క్రీన్‌షాట్ విజయవంతంగా సేవ్ చేయబడింది!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "స్క్రీన్‌షాట్ బటన్‌ను ఎంచుకోండి"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "స్క్రీన్‌షాట్‌ల కోసం చిత్ర ఆకృతిని ఎంచుకోండి."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "స్క్రీన్‌షాట్‌ల కోసం రిజల్యూషన్‌ని ఎంచుకోండి."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "ఎక్కువసేపు నొక్కే బదులు బటన్ కోసం ప్రెస్ రకాన్ని సెట్ చేయండి."
 
 msgid "Settings"
-msgstr ""
+msgstr "సెట్టింగ్‌లు"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "నెమ్మదిగా కానీ సున్నితంగా చిత్రం పునఃపరిమాణం."
 
 msgid "Temporary"
-msgstr ""
+msgstr "తాత్కాలికం"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "స్క్రీన్‌పై సందేశాలను ప్రదర్శించే సమయం."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB డ్రైవ్"
 
 msgid "Unknown"
-msgstr ""
+msgstr "తెలియదు"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "బైక్యూబిక్ పరిమాణాన్ని ఉపయోగించండి"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "బైక్యూబిక్ పరిమాణాన్ని ఉపయోగించండి (నెమ్మదిగా, కానీ మృదువైన చిత్రం)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "వీడియో మాత్రమే"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "సంగ్రహించిన స్క్రీన్‌షాట్‌లను వీక్షించండి"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "వెబ్ క్యాప్చర్ విఫలమైంది: గ్రాబ్ అందుబాటులో లేదు"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "దీర్ఘ 'ఉపయోగించవచ్చు."
 
 msgid "long:"
-msgstr ""
+msgstr "పొడవు:"
 
 msgid "no message"
-msgstr ""
+msgstr "సందేశం లేదు"
 
 msgid "no timeout"
-msgstr ""
+msgstr "గడువు ముగిసింది"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "దయచేసి వేచి ఉండండి, చిత్రాన్ని లోడ్ చేస్తోంది..."

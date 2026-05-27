@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr ""gumb namesto""
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Dodajte možnost -n, da vsilite raztezanje."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Dodajte nabiralnik, če je vir 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Napredni posnetek zaslona"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Napredna galerija posnetkov zaslona"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Napredna nastavitev posnetka zaslona"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Vedno oddaj sliko 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Vedno oddaj sliko 4:3 (doda nabiralnik, če je vir 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Vedno shranjujte posnetke zaslona"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Ali ste prepričani, da želite izbrisati ta posnetek zaslona?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Izberite, kateri gumb sproži posnetek zaslona."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Privzeta ločljivost"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Brisanje ni uspelo:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Omogočite ali onemogočite vtičnik Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Omogoči vtičnik"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Napaka med zajemanjem:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Napaka pri nalaganju galerije:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Popravite razmerje stranic"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Popravi razmerje stranic (doda -n, da vsili brez raztezanja)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Mapa, v kateri so shranjeni posnetki zaslona."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Predogled zamrznjene slike"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Zamrzni predogled okvirja, ko posnameš posnetek zaslona."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Trdi disk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Format slike"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100 %"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Za ta gumb morate uporabiti dolg pritisk."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Dolg pritisk je potreben za"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Za gumb je potreben dolg pritisk"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Časovna omejitev sporočila (sekunde)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Omrežni nosilec"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + video"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Samo OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Pritisnite OK za shranjevanje - EXIT za preklic"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Pritisnite tip za"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Pritisnite tipko za gumb"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Profesionalno orodje za posnetke zaslona"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Resolucija"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Shrani pot (potreben je ponovni zagon)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Shranite posnetke zaslona, ​​tudi če je okvir zamrznjen."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Posnetek zaslona je uspešno shranjen!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Izberite gumb za posnetek zaslona"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Izberite obliko slike za posnetke zaslona."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Izberite ločljivost za posnetke zaslona."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Nastavite vrsto pritiska za gumb namesto dolgega pritiska."
 
 msgid "Settings"
-msgstr ""
+msgstr "nastavitve"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Počasnejše, a bolj gladko spreminjanje velikosti slike."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Začasno"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Čas za prikaz sporočil na zaslonu."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "pogon USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Neznano"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Uporabite bikubično spreminjanje velikosti"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Uporabi bikubično spreminjanje velikosti (počasnejša, a bolj gladka slika)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Samo video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Oglejte si posnete posnetke zaslona"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Spletni zajem ni uspel: Grab ni na voljo"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "dolgo ' se lahko uporablja."
 
 msgid "long:"
-msgstr ""
+msgstr "dolgo:"
 
 msgid "no message"
-msgstr ""
+msgstr "brez sporočila"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ni časovne omejitve"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "prosim počakajte, nalaganje slike ..."

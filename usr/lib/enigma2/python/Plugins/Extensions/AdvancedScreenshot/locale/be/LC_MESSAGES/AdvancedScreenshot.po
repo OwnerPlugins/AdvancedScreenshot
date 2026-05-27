@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr ""кнопка замест""
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Дадайце опцыю -n, каб не расцягвацца."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Дадайце паштовую скрыню, калі крыніца 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Пашыраны скрыншот"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Пашыраная галерэя скрыншотаў"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Пашыраная налада скрыншота"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Заўсёды выводзіць выяву 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Заўсёды выводзіць выяву 4:3 (дадае паштовую скрыню, калі крыніца 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Заўсёды захоўвайце скрыншоты"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Вы ўпэўнены, што хочаце выдаліць гэты скрыншот?"
 
 msgid "BMP"
-msgstr ""
+msgstr "БМП"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Выберыце, якая кнопка запускае скрыншот."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Раздзяленне па змаўчанні"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Не атрымалася выдаліць:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Уключыце або адключыце ўбудову пашыранага здымка экрана."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Уключыць убудову"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Памылка падчас здымкі:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Памылка загрузкі галерэі:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Выправіць суадносіны бакоў"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Выправіць суадносіны бакоў (дадае -n, ​​каб не расцягвацца)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Тэчка, у якую захоўваюцца скрыншоты."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Папярэдні прагляд стоп-кадра"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Замарозіць папярэдні прагляд кадра пры здымку экрана."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Жорсткі дыск"
 
 msgid "Image format"
-msgstr ""
+msgstr "Фармат выявы"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Для гэтай кнопкі неабходна доўга націскаць."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Для"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Для кнопкі патрабуецца доўгі націск"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Час чакання паведамлення (секунды)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Сеткавы мантаж"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "Экраннае меню + відэа"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Толькі экраннае меню"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Націсніце OK для захавання - EXIT для адмены"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Націсніце для"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Націсніце кнопку для ўводу"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Прафесійны інструмент скрыншота"
 
 msgid "Resolution"
-msgstr ""
+msgstr "дазвол"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Захаваць шлях (патрабуецца перазапуск)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Захоўвайце скрыншоты, нават калі кадр замарожаны."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Здымак экрана паспяхова захаваны!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Выберыце кнопку скрыншота"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Выберыце фармат выявы для скрыншотаў."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Выберыце дазвол для скрыншотаў."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Усталюйце тып націску для кнопкі замест доўгага."
 
 msgid "Settings"
-msgstr ""
+msgstr "Налады"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Больш павольнае, але плыўнае змяненне памеру выявы."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Часовы"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Час для адлюстравання паведамленняў на экране."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB дыск"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Невядомы"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Выкарыстоўвайце бікубічны памер"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Выкарыстоўваць змяненне бікубічнага памеру (павольней, але плыўней малюнак)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Толькі відэа"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Прагляд зробленых скрыншотаў"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Збой вэб-захопу: захоп недаступны"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "можна выкарыстоўваць доўгі."
 
 msgid "long:"
-msgstr ""
+msgstr "доўгі:"
 
 msgid "no message"
-msgstr ""
+msgstr "няма паведамлення"
 
 msgid "no timeout"
-msgstr ""
+msgstr "няма тайм-аўту"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "калі ласка, пачакайце, загрузка выявы..."

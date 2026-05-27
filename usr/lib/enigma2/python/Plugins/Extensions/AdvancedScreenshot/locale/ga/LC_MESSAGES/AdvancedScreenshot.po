@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' cnaipe in ionad '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Cuir -n rogha chun gan síneadh a chur i bhfeidhm."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Cuir bosca litreach leis más é 16:9 an fhoinse."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Scáileán Casta"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Ardghailearaí Seat"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Socrú Scáileáin Casta"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Aschur íomhá 4:3 i gcónaí"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Aschuir íomhá 4:3 i gcónaí (cuirtear an bosca litreach leis más é 16:9 an fhoinse)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Sábháil scáileáin scáileáin i gcónaí"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "An bhfuil tú cinnte gur mhaith leat an seat scáileáin seo a scriosadh?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Roghnaigh cén cnaipe a spreagann an scáileán."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Rún Réamhshocraithe"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Theip ar an scriosadh:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Cumasaigh nó díchumasaigh an breiseán Seat Casta."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Cumasaigh breiseán"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Earráid le linn gabhála:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Earráid agus gailearaí á lódáil:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Deisigh cóimheas gné"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Deisigh an cóimheas treoíochta (cuir -n leis chun gan síneadh a chur i bhfeidhm)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Fillteán ina ndéantar screenshots a shábháil."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Réamhamharc ar fhráma reoite"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Reo réamhamharc an fhráma agus tú ag glacadh scáileáin."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Diosca Crua"
 
 msgid "Image format"
-msgstr ""
+msgstr "Formáid íomhá"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Ní mór brúigh fada a úsáid don chnaipe seo."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Preas fada ag teastáil le haghaidh"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Brú fada ag teastáil le haghaidh an cnaipe"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Teorainn ama na teachtaireachta (soicindí)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Suiteáil líonra"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Físeán"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD amháin"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Brúigh OK chun a shábháil - EXIT le cealú"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Cineál brúigh le haghaidh"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Brúigh cineál le haghaidh cnaipe"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Uirlis ghairmiúil scáileáin"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Rún"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Sábháil cosán (gá atosú)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Sábháil scáileáin scáileáin fiú má tá an fráma reoite."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Sábháladh an gabháil scáileáin!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Roghnaigh cnaipe scáileáin"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Roghnaigh an fhormáid íomhá le haghaidh screenshots."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Roghnaigh an taifeach le haghaidh screenshots."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Socraigh cineál brúigh le haghaidh cnaipe in ionad brúigh fada."
 
 msgid "Settings"
-msgstr ""
+msgstr "Socruithe"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Athrú méid íomhá níos moille ach níos míne."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Sealadach"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Am chun teachtaireachtaí a thaispeáint ar an scáileán."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Tiomántán USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Anaithnid"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Bain úsáid as méid biúbach a athrú"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Úsáid méid déchúbach (íomhá níos moille ach níos míne)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Físeán Amháin"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Féach ar screenshots a gabhadh"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Theip ar ghabháil Gréasáin: Níl an grab ar fáil"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "fada ' is féidir a úsáid."
 
 msgid "long:"
-msgstr ""
+msgstr "fada:"
 
 msgid "no message"
-msgstr ""
+msgstr "gan teachtaireacht"
 
 msgid "no timeout"
-msgstr ""
+msgstr "gan aon am istigh"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Fan go fóill, pictiúr á lódáil..."

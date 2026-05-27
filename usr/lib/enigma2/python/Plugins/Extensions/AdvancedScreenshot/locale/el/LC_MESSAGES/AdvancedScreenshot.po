@@ -29,7 +29,7 @@ msgid "Add letterbox if source is 16:9."
 msgstr "Πάντα εξαγωγή εικόνας 4:3 (προσθέτει letterbox αν η πηγή είναι 16:9)"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Σύνθετο στιγμιότυπο οθόνης"
 
 msgid "Advanced Screenshot Gallery"
 msgstr "Συλλογή προηγμένων στιγμιοτύπων οθόνης"
@@ -39,7 +39,7 @@ msgid "Advanced Screenshot Setup"
 msgstr "Συλλογή προηγμένων στιγμιοτύπων οθόνης"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Πάντα να βγάζετε εικόνα 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
 msgstr "Πάντα εξαγωγή εικόνας 4:3 (προσθέτει letterbox αν η πηγή είναι 16:9)"
@@ -54,7 +54,7 @@ msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Επιλέξτε ποιο κουμπί ενεργοποιεί το στιγμιότυπο οθόνης."
 
 msgid "Default Resolution"
 msgstr "Προεπιλεγμένη ανάλυση"
@@ -64,7 +64,7 @@ msgid "Delete failed:"
 msgstr "Η διαγραφή απέτυχε: "
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Ενεργοποιήστε ή απενεργοποιήστε την προσθήκη Advanced Screenshot."
 
 msgid "Enable plugin"
 msgstr "Ενεργοποίηση πρόσθετου"
@@ -77,19 +77,19 @@ msgid "Error loading gallery:"
 msgstr "Σφάλμα κατά τη φόρτωση της συλλογής: "
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Διορθώστε την αναλογία διαστάσεων"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
 msgstr "Διόρθωση αναλογίας διαστάσεων (προσθέτει -n για αποφυγή παραμόρφωσης)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Φάκελος όπου αποθηκεύονται τα στιγμιότυπα οθόνης."
 
 msgid "Freeze frame preview"
 msgstr "Προεπισκόπηση καρέ παγώματος"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Παγώστε την προεπισκόπηση του καρέ κατά τη λήψη στιγμιότυπου οθόνης."
 
 msgid "Hard Disk"
 msgstr "Σκληρός δίσκος"
@@ -156,7 +156,7 @@ msgid "Save path (requires restart)"
 msgstr "Διαδρομή αποθήκευσης (απαιτείται επανεκκίνηση)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Αποθηκεύστε στιγμιότυπα οθόνης ακόμα κι αν το καρέ είναι παγωμένο."
 
 msgid "Screenshot saved successfully!"
 msgstr "Το στιγμιότυπο οθόνης αποθηκεύτηκε επιτυχώς!"
@@ -165,25 +165,25 @@ msgid "Select screenshot button"
 msgstr "Επιλογή κουμπιού για στιγμιότυπο οθόνης"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Επιλέξτε τη μορφή εικόνας για στιγμιότυπα οθόνης."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Επιλέξτε την ανάλυση για στιγμιότυπα οθόνης."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Ορίστε τον τύπο πίεσης για το κουμπί αντί για παρατεταμένο πάτημα."
 
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Πιο αργή αλλά πιο ομαλή αλλαγή μεγέθους εικόνας."
 
 msgid "Temporary"
 msgstr "Προσωρινή"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Ώρα για εμφάνιση μηνυμάτων στην οθόνη."
 
 msgid "USB Drive"
 msgstr "Μονάδα USB"
@@ -192,7 +192,7 @@ msgid "Unknown"
 msgstr "Άγνωστο"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Χρησιμοποιήστε δικυβική αλλαγή μεγέθους"
 
 msgid "Use bicubic resize (slower, but smoother image)"
 msgstr "Χρήση διγραμμικής αναπροσαρμογής (πιο αργό, αλλά πιο ομαλή εικόνα)"
@@ -204,7 +204,7 @@ msgid "View captured screenshots"
 msgstr "Προβολή ληφθέντων στιγμιοτύπων οθόνης"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Η λήψη στον ιστό απέτυχε: Η λήψη δεν είναι διαθέσιμη"
 
 #, fuzzy
 msgid "long ' can be used."
@@ -221,4 +221,4 @@ msgid "no timeout"
 msgstr "χωρίς χρονικό όριο"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Παρακαλώ περιμένετε, φόρτωση εικόνας..."

@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' o'rniga ' tugmasi"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Uzatmaslik uchun -n variantini qo'shing."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Manba 16:9 bo'lsa, xat qutisini qo'shing."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Kengaytirilgan skrinshot"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Kengaytirilgan skrinshot galereyasi"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Kengaytirilgan skrinshotni sozlash"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Har doim 4:3 tasvirni chiqaring"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Har doim 4:3 o'lchamdagi tasvirni chiqaring (manba 16:9 bo'lsa, pochta qutisi qo'shiladi)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Har doim skrinshotlarni saqlang"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Haqiqatan ham bu skrinshotni oʻchirib tashlamoqchimisiz?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Qaysi tugma ekran tasvirini ishga tushirishini tanlang."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Standart ruxsat"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Oʻchirish amalga oshmadi:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Kengaytirilgan skrinshot plaginini yoqing yoki o'chiring."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Plaginni yoqish"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Suratga olishda xatolik yuz berdi:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Galereyani yuklashda xatolik yuz berdi:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Tomonlar nisbatini tuzatish"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Tomonlar nisbatini tuzatish (cho‘zmaslik uchun -n qo‘shadi)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Skrinshotlar saqlanadigan papka."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Ramkani oldindan koʻrishni muzlatish"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Skrinshot olishda ramkani oldindan ko'rishni muzlatib qo'ying."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Qattiq disk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Tasvir formati"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Ushbu tugmani uzoq bosish kerak."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Buning uchun uzoq bosish talab qilinadi"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Tugmani uzoq bosish kerak"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Xabar kutish vaqti (soniya)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tarmoq o'rnatish"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Faqat OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Saqlash uchun OK tugmasini bosing - bekor qilish uchun EXIT tugmasini bosing"
 
 msgid "Press type for"
-msgstr ""
+msgstr "uchun yozing"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Tugmasini kiritish uchun yozing"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professional skrinshot vositasi"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Rezolyutsiya"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Yo'lni saqlash (qayta ishga tushirishni talab qiladi)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Agar ramka muzlatilgan bo'lsa ham, skrinshotlarni saqlang."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Skrinshot muvaffaqiyatli saqlandi!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Skrinshot tugmasini tanlang"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Skrinshotlar uchun rasm formatini tanlang."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Skrinshotlar uchun ruxsatni tanlang."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Uzoq bosish o'rniga tugma uchun bosish turini o'rnating."
 
 msgid "Settings"
-msgstr ""
+msgstr "Sozlamalar"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Sekinroq, ammo silliqroq tasvir hajmini o'zgartirish."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Vaqtinchalik"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Xabarlarni ekranda ko'rsatish vaqti."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB disk"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Noma'lum"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Ikki kubik o'lchamidan foydalaning"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Ikki kubik o'lchamidan foydalaning (sekinroq, lekin silliqroq tasvir)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Faqat video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Olingan skrinshotlarni ko'rish"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Veb-saytga yozib olish amalga oshmadi: Grab mavjud emas"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' dan foydalanish mumkin."
 
 msgid "long:"
-msgstr ""
+msgstr "uzoq:"
 
 msgid "no message"
-msgstr ""
+msgstr "xabar yo'q"
 
 msgid "no timeout"
-msgstr ""
+msgstr "vaqt tugashi yo'q"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Iltimos, kuting, rasm yuklanmoqda..."

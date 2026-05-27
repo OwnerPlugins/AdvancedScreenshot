@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'ប៊ូតុងជំនួសឱ្យ'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "បន្ថែម -n ជម្រើសដើម្បីបង្ខំមិនលាតសន្ធឹង។"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "បន្ថែមប្រអប់សំបុត្រប្រសិនបើប្រភពគឺ 16:9 ។"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "រូបថតអេក្រង់កម្រិតខ្ពស់"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "វិចិត្រសាលរូបថតអេក្រង់កម្រិតខ្ពស់"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "ការដំឡើងរូបថតអេក្រង់កម្រិតខ្ពស់"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "បង្ហាញរូបភាព 4:3 ជានិច្ច"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "បង្ហាញរូបភាព 4:3 ជានិច្ច (បន្ថែមប្រអប់សំបុត្រប្រសិនបើប្រភពគឺ 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "រក្សាទុករូបថតអេក្រង់ជានិច្ច"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "តើអ្នកប្រាកដថាចង់លុបរូបថតអេក្រង់នេះទេ?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "ជ្រើសរើស​ប៊ូតុង​មួយ​ណា​ដែល​បើក​អេក្រង់។"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ដំណោះស្រាយលំនាំដើម"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ការលុបបរាជ័យ៖"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "បើក ឬបិទកម្មវិធីជំនួយរូបថតអេក្រង់កម្រិតខ្ពស់។"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "បើកកម្មវិធីជំនួយ"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "កំហុសអំឡុងពេលថត៖\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "មាន​បញ្ហា​ក្នុង​ការ​ផ្ទុក​វិចិត្រសាល៖"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "ជួសជុលសមាមាត្រ"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "ជួសជុលសមាមាត្រ (បន្ថែម -n ដើម្បីបង្ខំកុំឱ្យលាតសន្ធឹង)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "ថតឯកសារដែលរូបថតអេក្រង់ត្រូវបានរក្សាទុក។"
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "ការមើលជាមុននៃស៊ុមបង្កក"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "បង្កកការមើលស៊ុមជាមុន នៅពេលថតអេក្រង់។"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ថាសរឹង"
 
 msgid "Image format"
-msgstr ""
+msgstr "ទម្រង់រូបភាព"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ការចុចឱ្យយូរត្រូវតែប្រើសម្រាប់ប៊ូតុងនេះ។"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "ត្រូវការចុចឱ្យយូរ"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "តម្រូវឱ្យចុចឱ្យយូរសម្រាប់ប៊ូតុង"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "អស់ពេលសារ (វិនាទី)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "បណ្តាញភ្ជាប់"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + វីដេអូ"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD តែប៉ុណ្ណោះ"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "ចុចយល់ព្រមដើម្បីរក្សាទុក - ចេញដើម្បីបោះបង់"
 
 msgid "Press type for"
-msgstr ""
+msgstr "ចុចប្រភេទសម្រាប់"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "ចុចប្រភេទសម្រាប់ប៊ូតុង"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "ឧបករណ៍រូបថតអេក្រង់ដែលមានជំនាញវិជ្ជាជីវៈ"
 
 msgid "Resolution"
-msgstr ""
+msgstr "ដំណោះស្រាយ"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "រក្សាទុកផ្លូវ (ទាមទារការចាប់ផ្តើមឡើងវិញ)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "រក្សាទុករូបថតអេក្រង់ទោះបីជាស៊ុមត្រូវបានបង្កកក៏ដោយ។"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "រូបថតអេក្រង់ត្រូវបានរក្សាទុកដោយជោគជ័យ!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "ជ្រើសរើសប៊ូតុងរូបថតអេក្រង់"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "ជ្រើសរើសទម្រង់រូបភាពសម្រាប់រូបថតអេក្រង់។"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "ជ្រើសរើសគុណភាពបង្ហាញសម្រាប់រូបថតអេក្រង់។"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "កំណត់ប្រភេទចុចសម្រាប់ប៊ូតុងជំនួសឱ្យការចុចយូរ។"
 
 msgid "Settings"
-msgstr ""
+msgstr "ការកំណត់"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "ផ្លាស់ប្តូរទំហំរូបភាពយឺត ប៉ុន្តែរលោងជាងមុន។"
 
 msgid "Temporary"
-msgstr ""
+msgstr "បណ្ដោះអាសន្ន"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "ដល់ពេលបង្ហាញសារនៅលើអេក្រង់។"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "ដ្រាយ USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "មិនស្គាល់"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "ប្រើការប្តូរទំហំប៊ីប៊ីប៊ីក"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "ប្រើការផ្លាស់ប្តូរទំហំប៊ីប៊ីប៊ីក (រូបភាពយឺត ប៉ុន្តែរលោងជាង)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "វីដេអូតែប៉ុណ្ណោះ"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "មើលរូបថតអេក្រង់ដែលបានថត"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "ការចាប់យកគេហទំព័របានបរាជ័យ៖ Grab មិនមានទេ។"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "អាចប្រើប្រាស់បានយូរ។"
 
 msgid "long:"
-msgstr ""
+msgstr "វែង៖"
 
 msgid "no message"
-msgstr ""
+msgstr "គ្មានសារ"
 
 msgid "no timeout"
-msgstr ""
+msgstr "មិនអស់ពេលទេ។"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "សូមរង់ចាំ ផ្ទុករូបភាព..."

@@ -10,196 +10,196 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'की जगह बटन'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "बिना किसी खिंचाव के दबाव डालने के लिए -n विकल्प जोड़ें।"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "यदि स्रोत 16:9 है तो लेटरबॉक्स जोड़ें।"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "उन्नत स्क्रीनशॉट"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "उन्नत स्क्रीनशॉट गैलरी"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "उन्नत स्क्रीनशॉट सेटअप"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "हमेशा 4:3 छवि आउटपुट करें"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "हमेशा 4:3 छवि आउटपुट करें (यदि स्रोत 16:9 है तो लेटरबॉक्स जोड़ता है)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "स्क्रीनशॉट हमेशा सेव रखें"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "क्या आप वाकई इस स्क्रीनशॉट को हटाना चाहते हैं?"
 
 msgid "BMP"
-msgstr ""
+msgstr "बीएमपी"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "चुनें कि कौन सा बटन स्क्रीनशॉट ट्रिगर करता है।"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "डिफ़ॉल्ट रिज़ॉल्यूशन"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "हटाना विफल:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "उन्नत स्क्रीनशॉट प्लगइन को सक्षम या अक्षम करें।"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "प्लगइन सक्षम करें"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "कैप्चर के दौरान त्रुटि:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "गैलरी लोड करने में त्रुटि:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "पहलू अनुपात ठीक करें"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "पक्षानुपात ठीक करें (कोई खिंचाव न हो इसके लिए -n जोड़ता है)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "वह फ़ोल्डर जहां स्क्रीनशॉट सहेजे गए हैं."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "फ़्रेम पूर्वावलोकन फ़्रीज़ करें"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "स्क्रीनशॉट लेते समय फ़्रेम पूर्वावलोकन को फ़्रीज़ करें।"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "हार्ड डिस्क"
 
 msgid "Image format"
-msgstr ""
+msgstr "छवि प्रारूप"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "जेपीईजी 100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "जेपीईजी 60%"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "जेपीईजी 80%"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "जेपीईजी 90%"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "इस बटन को देर तक दबाकर रखना होगा।"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "लंबे समय तक प्रेस करने की आवश्यकता है"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "बटन को देर तक दबाना आवश्यक है"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "संदेश का समय समाप्त (सेकंड)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "नेटवर्क माउंट"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "ओएसडी + वीडियो"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "केवल ओएसडी"
 
 msgid "PNG"
-msgstr ""
+msgstr "पीएनजी"
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "सहेजने के लिए ओके दबाएँ - रद्द करने के लिए बाहर निकलें"
 
 msgid "Press type for"
-msgstr ""
+msgstr "के लिए प्रकार दबाएँ"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "बटन के लिए प्रकार दबाएँ"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "प्रोफेशनल स्क्रीनशॉट टूल"
 
 msgid "Resolution"
-msgstr ""
+msgstr "संकल्प"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "पथ सहेजें (पुनः आरंभ करने की आवश्यकता है)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "यदि फ़्रेम फ़्रीज़ हो गया है तो भी स्क्रीनशॉट सहेजें।"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "स्क्रीनशॉट सफलतापूर्वक सहेजा गया!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "स्क्रीनशॉट बटन का चयन करें"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "स्क्रीनशॉट के लिए छवि प्रारूप का चयन करें."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "स्क्रीनशॉट के लिए रिज़ॉल्यूशन चुनें."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "लंबे प्रेस के बजाय बटन के लिए प्रेस प्रकार सेट करें।"
 
 msgid "Settings"
-msgstr ""
+msgstr "सेटिंग्स"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "धीमी लेकिन सहज छवि का आकार बदलना।"
 
 msgid "Temporary"
-msgstr ""
+msgstr "अस्थायी"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "संदेशों को स्क्रीन पर प्रदर्शित करने का समय आ गया है।"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "यूएसबी ड्राइव"
 
 msgid "Unknown"
-msgstr ""
+msgstr "अज्ञात"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "बाइक्यूबिक आकार बदलें का उपयोग करें"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "बाइक्यूबिक आकार का उपयोग करें (धीमी, लेकिन चिकनी छवि)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "केवल वीडियो"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "कैप्चर किए गए स्क्रीनशॉट देखें"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "वेब कैप्चर विफल: ग्रैब उपलब्ध नहीं है"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long' का प्रयोग किया जा सकता है।"
 
 msgid "long:"
-msgstr ""
+msgstr "लंबा:"
 
 msgid "no message"
-msgstr ""
+msgstr "कोई संदेश नहीं"
 
 msgid "no timeout"
-msgstr ""
+msgstr "कोई टाइमआउट नहीं"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "कृपया प्रतीक्षा करें, चित्र लोड हो रहा है..."

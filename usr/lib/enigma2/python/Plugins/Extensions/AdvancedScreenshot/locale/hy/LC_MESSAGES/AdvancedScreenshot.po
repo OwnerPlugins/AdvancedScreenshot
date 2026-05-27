@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "կոճակի փոխարեն"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Ավելացնել -n տարբերակ՝ ստիպելու չձգվել:"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Ավելացնել փոստարկղ, եթե աղբյուրը 16:9 է:"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Ընդլայնված սքրինշոթ"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Ընդլայնված Սքրինշոթ պատկերասրահ"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Սքրինշոթի առաջադեմ կարգավորում"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Միշտ թողարկեք 4:3 պատկեր"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Միշտ թողարկեք 4:3 պատկեր (ավելացնում է փոստարկղը, եթե աղբյուրը 16:9 է)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Միշտ պահեք սքրինշոթները"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Իսկապե՞ս ուզում եք ջնջել այս սքրինշոթը:"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Ընտրեք, թե որ կոճակն է գործարկում սքրինշոթը:"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Կանխադրված լուծում"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Չհաջողվեց ջնջել."
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Միացնել կամ անջատել Advanced Screenshot plugin-ը:"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Միացնել փլագինը"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Սխալ նկարահանման ժամանակ՝\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Սխալ՝ պատկերասրահը բեռնելիս."
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Ուղղել կողմի հարաբերակցությունը"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Ուղղել կողմի հարաբերակցությունը (ավելացնում է -n, որպեսզի չձգվի)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Թղթապանակ, որտեղ պահվում են սքրինշոթները:"
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Սառեցնել շրջանակի նախադիտումը"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Սքրինշոթ անելիս սառեցրեք շրջանակի նախադիտումը:"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Կոշտ սկավառակ"
 
 msgid "Image format"
-msgstr ""
+msgstr "Պատկերի ձևաչափ"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Այս կոճակի համար պետք է երկար սեղմել:"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "համար պահանջվում է երկար սեղմում"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Կոճակի համար պահանջվում է երկար սեղմում"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Հաղորդագրության ժամկետը սպառվել է (վայրկյաններ)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Ցանցի ամրացում"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Տեսանյութ"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Միայն OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Պահելու համար սեղմեք OK - չեղարկելու համար EXIT"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Սեղմեք տեսակը համար"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Սեղմեք տեսակը կոճակի համար"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Պրոֆեսիոնալ սքրինշոթ գործիք"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Բանաձեւ"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Պահպանել ուղին (պահանջում է վերագործարկում)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Պահպանեք սքրինշոթները, նույնիսկ եթե շրջանակը սառեցված է:"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Սքրինշոթը հաջողությամբ պահպանվեց:"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Ընտրեք սքրինշոթ կոճակը"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Ընտրեք պատկերի ձևաչափը սքրինշոթերի համար:"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Ընտրեք սքրինշոթերի լուծումը:"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Երկար սեղմելու փոխարեն սահմանեք սեղմման տեսակը կոճակի համար:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Կարգավորումներ"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Ավելի դանդաղ, բայց ավելի հարթ պատկերի չափափոխում:"
 
 msgid "Temporary"
-msgstr ""
+msgstr "Ժամանակավոր"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Ժամանակն է ցուցադրել հաղորդագրությունները էկրանին:"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB կրիչ"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Անհայտ"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Օգտագործեք bicubic չափափոխել"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Օգտագործեք երկխորանարդ չափը (ավելի դանդաղ, բայց ավելի հարթ պատկեր)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Տեսանյութ Միայն"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Դիտեք նկարահանված սքրինշոթները"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Վեբ նկարահանումը ձախողվեց. Grab-ը հասանելի չէ"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "երկար» կարող է օգտագործվել:"
 
 msgid "long:"
-msgstr ""
+msgstr "երկար:"
 
 msgid "no message"
-msgstr ""
+msgstr "ոչ մի հաղորդագրություն"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ոչ մի թայմաութ"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "խնդրում ենք սպասել, նկարը բեռնվում է..."

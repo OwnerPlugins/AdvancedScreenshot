@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' əvəzinə ' düyməsi"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Heç bir uzanma məcbur etmək üçün -n seçimi əlavə edin."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Mənbə 16:9 olarsa, məktub qutusunu əlavə edin."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Qabaqcıl ekran görüntüsü"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Qabaqcıl Ekran Şotları Qalereyası"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Qabaqcıl Ekran Şotunun Quraşdırılması"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Həmişə 4:3 şəkil çıxarın"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Həmişə 4:3 şəkil çıxarın (mənbə 16:9 olarsa məktub qutusunu əlavə edir)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Həmişə ekran görüntülərini yadda saxlayın"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Bu skrinşotu silmək istədiyinizə əminsiniz?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Hansı düymənin ekran görüntüsünü işə salacağını seçin."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Defolt Qətnamə"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Silmək alınmadı:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Advanced Screenshot plaginini aktivləşdirin və ya söndürün."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Plugini aktivləşdirin"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Çəkiliş zamanı xəta:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Qalereyanı yükləmə xətası:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Aspekt nisbətini düzəldin"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Aspekt nisbətini düzəldin (uzatmamaq üçün -n əlavə edir)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Ekran görüntülərinin saxlandığı qovluq."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Çərçivə ön görünüşünü dondurun"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Ekran görüntüsünü çəkərkən çərçivəyə baxışı dondurun."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Sərt Disk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Şəkil formatı"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Bu düymə üçün uzun basma istifadə edilməlidir."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Üçün uzun basma tələb olunur"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Düymə üçün uzun basma tələb olunur"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Mesaj fasiləsi (saniyə)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Şəbəkə montajı"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Yalnız OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Yadda saxlamaq üçün OK düyməsini basın - ləğv etmək üçün ÇIXIŞ düyməsini basın"
 
 msgid "Press type for"
-msgstr ""
+msgstr "üçün yazın"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Düymə üçün yazın"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professional ekran görüntüsü aləti"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Qətnamə"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Yolu yadda saxlayın (yenidən başlatma tələb olunur)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Çərçivə donmuş olsa belə, ekran görüntülərini saxlayın."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Skrinşot uğurla yadda saxlanıldı!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Ekran görüntüsü düyməsini seçin"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Ekran görüntüləri üçün şəkil formatını seçin."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Ekran görüntüləri üçün qətnaməni seçin."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Uzun basmaq əvəzinə düymə üçün mətbuat növünü təyin edin."
 
 msgid "Settings"
-msgstr ""
+msgstr "Parametrlər"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Daha yavaş, lakin daha hamar şəkil ölçüsünü dəyişdirir."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Müvəqqəti"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Mesajları ekranda göstərmək vaxtıdır."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB Disk"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Naməlum"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "İki kubik ölçüsündən istifadə edin"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "İki kubik ölçüsünü istifadə edin (daha yavaş, lakin daha hamar şəkil)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Yalnız Video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Çəkilmiş ekran görüntülərinə baxın"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Veb ələ keçirilmədi: Grab əlçatan deyil"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "uzun ' istifadə edilə bilər."
 
 msgid "long:"
-msgstr ""
+msgstr "uzun:"
 
 msgid "no message"
-msgstr ""
+msgstr "mesaj yoxdur"
 
 msgid "no timeout"
-msgstr ""
+msgstr "fasilə yoxdur"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "zəhmət olmasa gözləyin, şəkil yüklənir..."

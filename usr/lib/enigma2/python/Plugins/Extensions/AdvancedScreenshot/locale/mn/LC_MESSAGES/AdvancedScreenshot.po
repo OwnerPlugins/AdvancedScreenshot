@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'-ын оронд товчлуур"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Хүчээр сунгахгүйн тулд -n сонголтыг нэмнэ үү."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Хэрэв эх сурвалж 16:9 бол захидлын хайрцаг нэмнэ үү."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Нарийвчилсан дэлгэцийн агшин"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Нарийвчилсан дэлгэцийн зургийн цомог"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Дэлгэцийн зургийн нарийвчилсан тохиргоо"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Үргэлж 4:3 хэмжээтэй зураг гарга"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Үргэлж 4:3 хэмжээтэй зургийг гарга (эх сурвалж 16:9 бол захидлын хайрцаг нэмнэ)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Дэлгэцийн агшинг үргэлж хадгал"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Та энэ дэлгэцийн агшинг устгахдаа итгэлтэй байна уу?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Аль товчлуур нь дэлгэцийн агшинг идэвхжүүлэхийг сонгоно уу."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Өгөгдмөл нарийвчлал"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Устгаж чадсангүй:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Дэлгэцийн нэмэлт өргөтгөлийг идэвхжүүлэх эсвэл идэвхгүй болгох."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Plugin-г идэвхжүүлнэ үү"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Зураг авах явцад гарсан алдаа:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Галерейг ачаалахад алдаа гарлаа:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Хэсгийн харьцааг засах"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Харьцааг засах (сунгахгүй байхын тулд -n нэмнэ)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Дэлгэцийн агшинг хадгалсан хавтас."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Хүрээг урьдчилан харахыг царцаах"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Дэлгэцийн агшинг авахдаа фрэймийн урьдчилж харах хэсгийг царцаах."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Хатуу диск"
 
 msgid "Image format"
-msgstr ""
+msgstr "Зургийн формат"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Энэ товчлуурыг удаан дарах шаардлагатай."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Урт дарах шаардлагатай"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Товчлуурт удаан дарах шаардлагатай"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Мессежийн завсарлага (секунд)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Сүлжээний холболт"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Видео"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Зөвхөн OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Хадгалах бол OK дарна уу - Цуцлах бол EXIT"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Төрөл дээр дарна уу"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Төрөл бичих товчийг дарна уу"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Мэргэжлийн дэлгэцийн зургийн хэрэгсэл"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Шийдвэр"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Замыг хадгалах (дахин эхлүүлэх шаардлагатай)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Хүрээ царцсан байсан ч дэлгэцийн агшинг хадгал."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Дэлгэцийн агшинг амжилттай хадгаллаа!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Дэлгэцийн зургийг сонгоно уу"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Дэлгэцийн агшинд зориулсан зургийн форматыг сонгоно уу."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Дэлгэцийн агшингийн нягтралыг сонгоно уу."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Товчлуурт удаан дарахын оронд дарах төрлийг тохируулна уу."
 
 msgid "Settings"
-msgstr ""
+msgstr "Тохиргоо"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Удаан боловч илүү зөөлөн зургийн хэмжээг өөрчлөх."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Түр зуурын"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Дэлгэц дээр мессеж харуулах цаг."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB диск"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Тодорхойгүй"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Хэмжээг хоёр куб ашиглана уу"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Хоёр кубын хэмжээг өөрчлөх (удаан, гэхдээ илүү зөөлөн зураг)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Зөвхөн видео"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Авсан дэлгэцийн агшинг харах"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Вэб дээр зураг авалт амжилтгүй болсон: Татаж авах боломжгүй"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' ашиглаж болно."
 
 msgid "long:"
-msgstr ""
+msgstr "урт:"
 
 msgid "no message"
-msgstr ""
+msgstr "зурвас байхгүй"
 
 msgid "no timeout"
-msgstr ""
+msgstr "завсарлага байхгүй"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "түр хүлээнэ үү, зургийг ачаалж байна..."

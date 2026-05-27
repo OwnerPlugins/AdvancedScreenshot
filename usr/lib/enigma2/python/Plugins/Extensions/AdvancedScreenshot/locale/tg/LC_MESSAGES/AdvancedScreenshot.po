@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "тугмаи 'ба ҷои'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Иловаи -n хосият барои маҷбур кардани дароз кардан."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Қуттии мактубро илова кунед, агар манбаъ 16:9 бошад."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Скриншоти пешрафта"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Галереяи скриншотҳои пешрафта"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Танзимоти пешрафтаи скриншот"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Ҳамеша тасвири 4:3 мебарорад"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Ҳамеша тасвири 4:3 бароварда мешавад (агар манбаъ 16:9 бошад, қуттии мактубро илова мекунад)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Ҳамеша скриншотҳоро захира кунед"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Шумо мутмаин ҳастед, ки мехоҳед ин скриншотро нест кунед?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Интихоб кунед, ки кадом тугма скриншотро ангеза медиҳад."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Қарори пешфарз"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Нест кардан натавонист:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Васлкунаки Advanced Screenshot -ро фаъол ё ғайрифаъол кунед."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Плагинро фаъол созед"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Хатогӣ ҳангоми сабт:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Хатогии боркунии галерея:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Таносуби тарафҳоро ислоҳ кунед"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Таносуби ҷанбаҳоро ислоҳ кунед (барои маҷбур кардани дароз кардан -n илова мекунад)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Папкае, ки дар он скриншотҳо захира карда мешаванд."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Пешнамоиши чаҳорчӯбаро ях кунед"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Ҳангоми гирифтани скриншот пешнамоиши чаҳорчӯбаро ях кунед."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Диски сахт"
 
 msgid "Image format"
-msgstr ""
+msgstr "Формати тасвир"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Барои ин тугма пахши дарозмуддат бояд истифода шавад."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Барои пахши дарозмуддат лозим аст"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Барои тугмаи дароз пахш кардан лозим аст"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Танаффуси паём (сонияҳо)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Монтажи шабака"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Видео"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Танҳо OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Барои захира кардан OK -ро пахш кунед - Барои бекор кардан EXIT -ро пахш кунед"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Навиштанро пахш кунед"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Барои тугмаи чопро пахш кунед"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Воситаи скриншотҳои касбӣ"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Резолюция"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Роҳро захира кунед (бозоғозро талаб мекунад)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Скриншотҳоро захира кунед, ҳатто агар чаҳорчӯба ях карда бошад."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Скриншот бомуваффақият захира карда шуд!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Тугмаи скриншотро интихоб кунед"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Формати тасвирро барои скриншотҳо интихоб кунед."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Қарорро барои скриншотҳо интихоб кунед."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Ба ҷои пахши тӯлонӣ навъи пахшро барои тугма таъин кунед."
 
 msgid "Settings"
-msgstr ""
+msgstr "Танзимотҳо"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Тағйир додани андозаи тасвир сусттар, вале ҳамвортар."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Муваққатӣ"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Вақти намоиш додани паёмҳо дар экран."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Диски USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Номаълум"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Андозаи дукубиро истифода баред"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Истифода аз андозаи дукубӣ (тасвири сусттар, вале ҳамвортар)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Танҳо видео"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Намоиши скриншотҳои гирифташуда"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Гирифтани веб ноком шуд: Гирифтан дастрас нест"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "дароз ' истифода бурдан мумкин аст."
 
 msgid "long:"
-msgstr ""
+msgstr "дароз:"
 
 msgid "no message"
-msgstr ""
+msgstr "хабар нест"
 
 msgid "no timeout"
-msgstr ""
+msgstr "танаффус нест"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "лутфан интизор шавед, тасвир бор карда мешавад..."

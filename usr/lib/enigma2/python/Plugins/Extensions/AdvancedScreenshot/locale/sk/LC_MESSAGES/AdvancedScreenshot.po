@@ -11,196 +11,196 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "„tlačidlo namiesto“"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Ak chcete vynútiť žiadne rozťahovanie, pridajte možnosť -n."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Pridajte letterbox, ak je zdroj 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Pokročilá snímka obrazovky"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Pokročilá galéria snímok obrazovky"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Pokročilé nastavenie snímky obrazovky"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Vždy výstup obrazu 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Vždy reprodukovať obraz s pomerom strán 4:3 (pridá sa letterbox, ak je zdroj 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Vždy ukladajte snímky obrazovky"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Naozaj chcete odstrániť túto snímku obrazovky?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Vyberte, ktoré tlačidlo spustí snímku obrazovky."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Predvolené rozlíšenie"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Odstránenie zlyhalo:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Povoľte alebo zakážte doplnok Advanced Screenshot."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Povoliť doplnok"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Chyba pri snímaní:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Chyba pri načítavaní galérie:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Opravte pomer strán"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Opravte pomer strán (pridá -n, aby sa vynútilo žiadne rozťahovanie)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Priečinok, do ktorého sa ukladajú snímky obrazovky."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Ukážka zmrazeného rámca"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Zmraziť náhľad snímky pri vytváraní snímky obrazovky."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Pevný disk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Formát obrázka"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100 %"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Pre toto tlačidlo je potrebné použiť dlhé stlačenie."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Vyžaduje sa dlhé stlačenie"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Dlhé stlačenie potrebné pre tlačidlo"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Časový limit správy (v sekundách)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Sieťové pripojenie"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Len OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Stlačte OK pre uloženie - EXIT pre zrušenie"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Stlačte typ pre"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Stlačte tlačidlo typu pre"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Profesionálny nástroj na snímanie obrazovky"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Rozlíšenie"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Uložiť cestu (vyžaduje reštart)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Uložte snímky obrazovky, aj keď je rám zamrznutý."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Snímka obrazovky bola úspešne uložená!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Tlačidlo výberu snímky obrazovky"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Vyberte formát obrázka pre snímky obrazovky."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Vyberte rozlíšenie pre snímky obrazovky."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Nastavte typ stlačenia tlačidla namiesto dlhého stlačenia."
 
 msgid "Settings"
-msgstr ""
+msgstr "Nastavenia"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Pomalšia, ale plynulejšia zmena veľkosti obrázka."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Dočasné"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Čas na zobrazenie správ na obrazovke."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB disk"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámy"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Použite bikubickú zmenu veľkosti"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Použiť bikubickú zmenu veľkosti (pomalší, ale hladší obrázok)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Iba video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Pozrite si zachytené snímky obrazovky"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Zachytenie webu zlyhalo: Uchopenie nie je k dispozícii"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "môže byť použitý dlhý."
 
 msgid "long:"
-msgstr ""
+msgstr "dlhý:"
 
 msgid "no message"
-msgstr ""
+msgstr "žiadna správa"
 
 msgid "no timeout"
-msgstr ""
+msgstr "žiadny časový limit"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "prosím čakajte, načítava sa obrázok..."

@@ -10,196 +10,196 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr ""زر بدلاً من""
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "إضافة خيار -n لفرض عدم التمدد."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "أضف صندوق بريد إذا كان المصدر 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "لقطة شاشة متقدمة"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "معرض لقطة الشاشة المتقدمة"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "إعداد لقطة الشاشة المتقدم"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "قم دائمًا بإخراج صورة 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "قم دائمًا بإخراج صورة بنسبة 4:3 (يُضاف صندوق بريد إذا كان المصدر 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "احفظ دائمًا لقطات الشاشة"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد حذف لقطة الشاشة هذه؟"
 
 msgid "BMP"
-msgstr ""
+msgstr "بي إم بي"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "اختر الزر الذي يؤدي إلى تشغيل لقطة الشاشة."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "القرار الافتراضي"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "فشل الحذف:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "تمكين أو تعطيل البرنامج المساعد لقطة الشاشة المتقدمة."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "تمكين البرنامج المساعد"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "خطأ أثناء الالتقاط:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "حدث خطأ أثناء تحميل المعرض:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "إصلاح نسبة العرض إلى الارتفاع"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "إصلاح نسبة العرض إلى الارتفاع (يضيف -n لفرض عدم التمدد)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "المجلد الذي يتم فيه حفظ لقطات الشاشة."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "تجميد معاينة الإطار"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "قم بتجميد معاينة الإطار عند التقاط لقطة الشاشة."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "القرص الصلب"
 
 msgid "Image format"
-msgstr ""
+msgstr "تنسيق الصورة"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "جى بي إي جي 100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "جى بي إي جي 60%"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "جى بي إي جي 80%"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "جى بي إي جي 90%"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "يجب استخدام الضغط لفترة طويلة لهذا الزر."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "الضغط لفترة طويلة مطلوب ل"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "الضغط لفترة طويلة مطلوب للزر"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "مهلة الرسالة (ثواني)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "جبل الشبكة"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + فيديو"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD فقط"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "اضغط على "موافق" للحفظ - "خروج" للإلغاء"
 
 msgid "Press type for"
-msgstr ""
+msgstr "اضغط على نوع ل"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "اضغط على نوع للزر"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "أداة لقطة شاشة احترافية"
 
 msgid "Resolution"
-msgstr ""
+msgstr "دقة"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "حفظ المسار (يتطلب إعادة التشغيل)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "حفظ لقطات الشاشة حتى لو تم تجميد الإطار."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "تم حفظ لقطة الشاشة بنجاح!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "حدد زر لقطة الشاشة"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "حدد تنسيق الصورة لالتقاط لقطات الشاشة."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "حدد دقة لقطات الشاشة."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "اضبط نوع الضغط على الزر بدلاً من الضغط لفترة طويلة."
 
 msgid "Settings"
-msgstr ""
+msgstr "إعدادات"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "تغيير حجم الصورة أبطأ ولكن أكثر سلاسة."
 
 msgid "Temporary"
-msgstr ""
+msgstr "مؤقت"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "الوقت لعرض الرسائل على الشاشة."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "محرك USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "مجهول"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "استخدم تغيير حجم bicubic"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "استخدم تغيير الحجم المكعب (صورة أبطأ ولكن أكثر سلاسة)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "فيديو فقط"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "عرض لقطات الشاشة الملتقطة"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "فشل التقاط الويب: الاستيلاء غير متاح"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "طويلة" يمكن استخدامها."
 
 msgid "long:"
-msgstr ""
+msgstr "طويل:"
 
 msgid "no message"
-msgstr ""
+msgstr "لا توجد رسالة"
 
 msgid "no timeout"
-msgstr ""
+msgstr "لا مهلة"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "يرجى الانتظار، جارٍ تحميل الصورة..."

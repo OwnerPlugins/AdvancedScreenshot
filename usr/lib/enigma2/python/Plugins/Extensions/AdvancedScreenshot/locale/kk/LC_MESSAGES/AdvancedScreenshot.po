@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' орнына ' түймесі"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Созуға мәжбүрлеу үшін -n опциясын қосыңыз."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Егер дереккөз 16:9 болса, хат жәшігін қосыңыз."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Қосымша скриншот"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Қосымша скриншоттар галереясы"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Қосымша скриншот орнату"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Әрқашан 4:3 кескінін шығарыңыз"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Әрқашан 4:3 кескінді шығару (көз 16:9 болса, хат жәшігін қосады)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Әрқашан скриншоттарды сақтаңыз"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Осы скриншотты шынымен жойғыңыз келе ме?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Қай түйме скриншотты іске қосатынын таңдаңыз."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Әдепкі ажыратымдылық"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Жою сәтсіз аяқталды:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Қосымша скриншот плагинін қосыңыз немесе өшіріңіз."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Плагинді қосыңыз"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Түсіру кезіндегі қате:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Галереяны жүктеу қатесі:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Пропорцияны түзетіңіз"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Формат арақатынасын түзету (созылмау үшін -n қосады)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Скриншоттар сақталатын қалта."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Жақтауды алдын ала қарауды тоқтату"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Скриншотты түсіру кезінде кадрды алдын ала қарауды тоқтатыңыз."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Қатты диск"
 
 msgid "Image format"
-msgstr ""
+msgstr "Кескін пішімі"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Бұл түймені ұзақ басу қажет."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "үшін ұзақ басу қажет"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Түймені ұзақ басу қажет"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Хабарлама күту уақыты (секунд)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Желіні орнату"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Бейне"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Тек OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Сақтау үшін OK түймесін басыңыз - бас тарту үшін EXIT түймесін басыңыз"
 
 msgid "Press type for"
-msgstr ""
+msgstr "үшін теру түймесін басыңыз"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "үшін теру түймесін басыңыз"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Кәсіби скриншот құралы"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Ажыратымдылық"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Жолды сақтау (қайта іске қосуды қажет етеді)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Скриншоттарды кадр қатып қалса да сақтаңыз."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Скриншот сәтті сақталды!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Скриншотты таңдау түймесін басыңыз"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Скриншоттар үшін кескін пішімін таңдаңыз."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Скриншоттар үшін ажыратымдылықты таңдаңыз."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Ұзақ басудың орнына түймені басу түрін орнатыңыз."
 
 msgid "Settings"
-msgstr ""
+msgstr "Параметрлер"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Баяуырақ, бірақ тегіс кескін өлшемін өзгерту."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Уақытша"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Экранда хабарларды көрсету уақыты."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB дискі"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Белгісіз"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Бикуб өлшемін пайдаланыңыз"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Екі кубтық өлшемді пайдаланыңыз (баяуырақ, бірақ тегіс кескін)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Тек бейне"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Түсірілген скриншоттарды көру"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Веб түсіру сәтсіз аяқталды: Grab қолжетімді емес"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' қолдануға болады."
 
 msgid "long:"
-msgstr ""
+msgstr "ұзақ:"
 
 msgid "no message"
-msgstr ""
+msgstr "хабар жоқ"
 
 msgid "no timeout"
-msgstr ""
+msgstr "күту уақыты жоқ"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "күте тұрыңыз, сурет жүктелуде..."

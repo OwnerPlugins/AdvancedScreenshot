@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' קנעפּל אַנשטאָט פון '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "לייג -n אָפּציע צו צווינגען קיין סטרעטשינג."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "לייג בריווקאַסטן אויב די מקור איז 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "אַוואַנסירטע סקרעענשאָט"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "אַוואַנסירטע סקרעענשאָט גאַלערי"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "אַוואַנסירטע סקרעענשאָט סעטאַפּ"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "שטענדיק רעזולטאַט 4:3 בילד"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "שטענדיק רעזולטאַט 4:3 בילד (מוסיף בריווקאַסטן אויב מקור איז 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "שטענדיק ראַטעווען סקרעענשאָץ"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "זענט איר זיכער אַז איר ווילן צו ויסמעקן דעם סקרעענשאָט?"
 
 msgid "BMP"
-msgstr ""
+msgstr "במפּ"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "קלייַבן וואָס קנעפּל טריגערז סקרעענשאָט."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "פעליקייַט האַכלאָטע"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ויסמעקן ניט אַנדערש:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "געבן אָדער דיסייבאַל די Advanced Screenshot פּלוגין."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "געבן פּלוגין"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "טעות בעת כאַפּן:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "טעות לאָודינג גאַלעריע:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "פאַרריכטן אַספּעקט פאַרהעלטעניש"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "פאַרריכטן אַספּעקט פאַרהעלטעניש (מוסיף -n צו צווינגען קיין סטרעטשינג)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "טעקע ווו סקרעענשאָץ זענען געראטעוועט."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "פרירן ראַם פאָרויסיקע ווייַזונג"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "פרירן די פאָרויסיקע ווייַזונג פון די ראַם ווען איר נעמען סקרעענשאָט."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "שווער דיסק"
 
 msgid "Image format"
-msgstr ""
+msgstr "בילד פֿאָרמאַט"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "לאַנג דריקן מוזן זיין געניצט פֿאַר דעם קנעפּל."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "לאנג דריקן פארלאנגט פֿאַר"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "לאַנג דריקן פארלאנגט פֿאַר קנעפּל"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "אָנזאָג צייט (סעקונדן)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "נעץ אָנקלאַפּן"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + ווידעא"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "בלויז OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "דרוק OK צו ראַטעווען - EXIT צו באָטל מאַכן"
 
 msgid "Press type for"
-msgstr ""
+msgstr "דרוק טיפּ פֿאַר"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "דרוק טיפּ פֿאַר קנעפּל"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "פאַכמאַן סקרעענשאָט געצייַג"
 
 msgid "Resolution"
-msgstr ""
+msgstr "האַכלאָטע"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "היט דרך (ריקוויירז ריסטאַרט)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "היט סקרעענשאָץ אפילו אויב די ראַם איז פאַרפרוירן."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "סקרעענשאָט געראטעוועט הצלחה!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "אויסקלייַבן סקרעענשאָט קנעפּל"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "אויסקלייַבן די בילד פֿאָרמאַט פֿאַר סקרעענשאָץ."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "אויסקלייַבן די האַכלאָטע פֿאַר סקרעענשאָץ."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "שטעלן דרוק טיפּ פֿאַר קנעפּל אַנשטאָט פון לאַנג דריקן."
 
 msgid "Settings"
-msgstr ""
+msgstr "סעטטינגס"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "סלאָוער אָבער סמודער בילד רעסיזינג."
 
 msgid "Temporary"
-msgstr ""
+msgstr "צייטווייליגע"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "צייט צו ווייַזן אַרטיקלען אויף פאַרשטעלן."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "וסב דרייוו"
 
 msgid "Unknown"
-msgstr ""
+msgstr "אומבאַקאַנט"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "ניצן ביקוביק רעסיזע"
 
 msgid "Use bicubic resize (slower, but smoother image)"
 msgstr ""
 
 msgid "Video Only"
-msgstr ""
+msgstr "בלויז ווידעא"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "View קאַפּטשערד סקרעענשאָץ"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "וועב כאַפּן ניט אַנדערש: כאַפּן ניט בנימצא"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "לאַנג ' קענען זיין געוויינט."
 
 msgid "long:"
-msgstr ""
+msgstr "לאַנג:"
 
 msgid "no message"
-msgstr ""
+msgstr "קיין אָנזאָג"
 
 msgid "no timeout"
-msgstr ""
+msgstr "קיין צייט"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ביטע וואַרטן, לאָודינג בילד ..."

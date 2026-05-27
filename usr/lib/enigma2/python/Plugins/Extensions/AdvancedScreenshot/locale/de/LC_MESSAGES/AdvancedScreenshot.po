@@ -15,191 +15,191 @@ msgstr ""
 "X-Poedit-SearchPath-0: plugin.py\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'-Taste statt '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Fügen Sie die Option -n hinzu, um keine Dehnung zu erzwingen."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Fügen Sie Letterbox hinzu, wenn die Quelle 16:9 ist."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Erweiterter Screenshot"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Erweiterte Screenshot-Galerie"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Erweiterte Screenshot-Einrichtung"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Geben Sie immer ein 4:3-Bild aus"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Immer 4:3-Bild ausgeben (fügt Letterbox hinzu, wenn die Quelle 16:9 ist)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Speichern Sie immer Screenshots"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Möchten Sie diesen Screenshot wirklich löschen?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Wählen Sie aus, welche Schaltfläche den Screenshot auslöst."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Standardauflösung"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Löschen fehlgeschlagen:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Aktivieren oder deaktivieren Sie das Plugin „Erweiterte Screenshots“."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Plugin aktivieren"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Fehler bei der Erfassung:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Fehler beim Laden der Galerie:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Seitenverhältnis korrigieren"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Seitenverhältnis korrigieren (fügt -n hinzu, um keine Dehnung zu erzwingen)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Ordner, in dem Screenshots gespeichert werden."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Standbildvorschau"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Frieren Sie die Bildvorschau beim Aufnehmen eines Screenshots ein."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Festplatte"
 
 msgid "Image format"
-msgstr ""
+msgstr "Bildformat"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "JPEG 100 %"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "JPEG 60 %"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "JPEG 80 %"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "JPEG 90 %"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Für diese Taste muss ein langer Druck verwendet werden."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Langes Drücken erforderlich für"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Langes Drücken der Taste erforderlich"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Nachrichten-Timeout (Sekunden)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Netzwerkmontage"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Nur OSD"
 
 #, fuzzy
 msgid "PNG"
 msgstr "EPG"
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Drücken Sie OK zum Speichern und EXIT zum Abbrechen"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Drücken Sie Typ für"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Drücken Sie die Taste „Typ für“."
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professionelles Screenshot-Tool"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Auflösung"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Pfad speichern (Neustart erforderlich)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Speichern Sie Screenshots, auch wenn das Bild eingefroren ist."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Screenshot erfolgreich gespeichert!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Wählen Sie die Screenshot-Schaltfläche"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Wählen Sie das Bildformat für Screenshots aus."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Wählen Sie die Auflösung für Screenshots."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Legen Sie die Art des Drückens der Taste anstelle des langen Drückens fest."
 
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Langsamere, aber flüssigere Bildgrößenänderung."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Vorübergehend"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Zeit, Nachrichten auf dem Bildschirm anzuzeigen."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-Laufwerk"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unbekannt"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Verwenden Sie die bikubische Größenänderung"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Verwenden Sie die bikubische Größenänderung (langsameres, aber glatteres Bild)."
 
 msgid "Video Only"
-msgstr ""
+msgstr "Nur Video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Sehen Sie sich aufgenommene Screenshots an"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Web-Erfassung fehlgeschlagen: Grab nicht verfügbar"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "long ' kann verwendet werden."
 
 msgid "long:"
-msgstr ""
+msgstr "lang:"
 
 msgid "no message"
 msgstr "keine Nachricht"
@@ -208,7 +208,7 @@ msgid "no timeout"
 msgstr "kein Timeout"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "Bitte warten, Bild wird geladen..."
 
 #~ msgid "Mute"
 #~ msgstr "Stumm"

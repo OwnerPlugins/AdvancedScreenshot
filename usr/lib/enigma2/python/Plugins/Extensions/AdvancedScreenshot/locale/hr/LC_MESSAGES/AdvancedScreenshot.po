@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: plugin.py\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' gumb umjesto '"
 
 #, fuzzy
 msgid "Add -n option to force no stretching."
@@ -36,7 +36,7 @@ msgid "Advanced Screenshot Setup"
 msgstr "Napredni snimak zaslona"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Uvijek ispis slike 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
 msgstr "Uvijek se ispisuje slika u omjeru 4:3 (dodaje se letterbox ako je izvor 16:9)"
@@ -51,7 +51,7 @@ msgid "BMP"
 msgstr "BMP"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Odaberite koji gumb pokreće snimku zaslona."
 
 msgid "Default Resolution"
 msgstr "Zadana Rezolucija"
@@ -61,7 +61,7 @@ msgid "Delete failed:"
 msgstr "Brisanje nije uspjelo! "
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Omogućite ili onemogućite dodatak Advanced Screenshot."
 
 msgid "Enable plugin"
 msgstr "Otvori dodatak"
@@ -74,19 +74,19 @@ msgid "Error loading gallery:"
 msgstr "Greška pri učitavanju galerije: "
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Popravi omjer slike"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
 msgstr "Popravi omjer slike (dodaje -n za prisilno uklanjanje rastezanja)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Mapa u koju se spremaju snimke zaslona."
 
 msgid "Freeze frame preview"
 msgstr "Pregled zamrznutog kadra"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Zamrzni pregled okvira prilikom snimanja zaslona."
 
 msgid "Hard Disk"
 msgstr "Tvrdi Disk"
@@ -154,7 +154,7 @@ msgid "Save path (requires restart)"
 msgstr "Spremi putanju (potrebno je ponovno pokretanje)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Spremite snimke zaslona čak i ako je okvir zamrznut."
 
 msgid "Screenshot saved successfully!"
 msgstr "Snimka zaslona uspješno spremljena!"
@@ -163,25 +163,25 @@ msgid "Select screenshot button"
 msgstr "Gumb za odabir snimke zaslona"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Odaberite format slike za snimke zaslona."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Odaberite razlučivost za snimke zaslona."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Postavite vrstu pritiska za gumb umjesto dugog pritiska."
 
 msgid "Settings"
 msgstr "Postavke"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Sporija, ali glatka promjena veličine slike."
 
 msgid "Temporary"
 msgstr "Privremeni"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Vrijeme je za prikaz poruka na ekranu."
 
 msgid "USB Drive"
 msgstr "USB Pogon"
@@ -190,7 +190,7 @@ msgid "Unknown"
 msgstr "Nepoznato"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Koristite bikubičnu promjenu veličine"
 
 msgid "Use bicubic resize (slower, but smoother image)"
 msgstr "Koristi bikubičnu promjenu veličine (sporija, ali glatkija slika)"
@@ -202,13 +202,13 @@ msgid "View captured screenshots"
 msgstr "Pogledajte snimljene snimke zaslona"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Web snimanje nije uspjelo: Grab nije dostupan"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "dugo ' može se koristiti."
 
 msgid "long:"
-msgstr ""
+msgstr "dugo:"
 
 msgid "no message"
 msgstr "nema poruke"
@@ -217,7 +217,7 @@ msgid "no timeout"
 msgstr "bez timeouta"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "molimo pričekajte, učitavanje slike..."
 
 #~ msgid "Button behavior warning"
 #~ msgstr "Upozorenje o ponašanju gumba"

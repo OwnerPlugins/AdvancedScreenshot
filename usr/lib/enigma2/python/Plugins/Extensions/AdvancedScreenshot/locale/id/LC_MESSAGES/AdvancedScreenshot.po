@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' tombol bukannya '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Tambahkan opsi -n untuk memaksa tidak ada peregangan."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Tambahkan kotak surat jika sumbernya 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Tangkapan Layar Tingkat Lanjut"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Galeri Tangkapan Layar Tingkat Lanjut"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Pengaturan Tangkapan Layar Tingkat Lanjut"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Selalu keluaran gambar 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Selalu menampilkan gambar 4:3 (tambahkan kotak surat jika sumbernya 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Selalu simpan tangkapan layar"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus tangkapan layar ini?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Pilih tombol mana yang memicu tangkapan layar."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Resolusi Bawaan"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Penghapusan gagal:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Mengaktifkan atau menonaktifkan plugin Tangkapan Layar Tingkat Lanjut."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Aktifkan plugin"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Kesalahan saat pengambilan:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Kesalahan saat memuat galeri:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Perbaiki rasio aspek"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Perbaiki rasio aspek (tambahkan -n untuk memaksa tidak ada peregangan)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Folder tempat tangkapan layar disimpan."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Bekukan pratinjau bingkai"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Bekukan pratinjau bingkai saat mengambil tangkapan layar."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Harddisk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Format gambar"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Tekan lama harus digunakan untuk tombol ini."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Tekan lama diperlukan untuk"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Tekan lama diperlukan untuk tombol"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Batas waktu pesan (detik)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Pemasangan jaringan"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Hanya OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Tekan OK untuk menyimpan - EXIT untuk membatalkan"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Tekan ketik untuk"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Tekan tombol ketik untuk"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Alat tangkapan layar profesional"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Resolusi"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Simpan jalur (perlu restart)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Simpan tangkapan layar meskipun bingkai dibekukan."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Tangkapan layar berhasil disimpan!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Pilih tombol tangkapan layar"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Pilih format gambar untuk tangkapan layar."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Pilih resolusi untuk tangkapan layar."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Atur jenis tekan untuk tombol, bukan tekan lama."
 
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Pengubahan ukuran gambar lebih lambat namun lebih lancar."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Sementara"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Saatnya menampilkan pesan di layar."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Drive USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Tidak dikenal"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Gunakan pengubahan ukuran bikubik"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Gunakan pengubahan ukuran bikubik (gambar lebih lambat, namun lebih halus)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Hanya Video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Lihat tangkapan layar yang diambil"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Pengambilan web gagal: Grab tidak tersedia"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "panjang ' dapat digunakan."
 
 msgid "long:"
-msgstr ""
+msgstr "panjang:"
 
 msgid "no message"
-msgstr ""
+msgstr "tidak ada pesan"
 
 msgid "no timeout"
-msgstr ""
+msgstr "tidak ada batas waktu"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "harap tunggu, sedang memuat gambar..."

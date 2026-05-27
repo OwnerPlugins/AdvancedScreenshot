@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "ýerine "düwme""
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Uzalmazlyk üçin -n opsiýasyny goşuň."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Çeşme 16: 9 bolsa, hat gutusyny goşuň."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Giňişleýin skrinshot"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Giňişleýin skrinshot galereýasy"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Giňişleýin skrinshot sazlamasy"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Elmydama 4: 3 suraty çykaryň"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Elmydama 4: 3 surat çykaryň (çeşme 16: 9 bolsa harp gutusyny goşýar)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Elmydama ekran suratlaryny ýatda saklaň"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Bu skrinshoty pozmak isleýändigiňize ynanýarsyňyzmy?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Haýsy düwmäniň skrinshot döredýändigini saýlaň."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Bellenen çözgüt"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Öçürmek şowsuz:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Advanced Screenshot pluginini işletmek ýa-da öçürmek."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Plagini açyň"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Surata almakda ýalňyşlyk: \ n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Galleryüklemek galereýasy:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Aspekt gatnaşygy düzediň"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Aspekt gatnaşygy düzediň (uzalmazlyga mejbur etmek üçin -n goşýar)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Ekranyň suratlary saklanýan bukja."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Çarçuwanyň deslapky synyny doňduryň"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Skrinshot alanyňyzda çarçuwanyň deslapky synyny doňduryň."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Gaty disk"
 
 msgid "Image format"
-msgstr ""
+msgstr "Surat formaty"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Bu düwme üçin uzyn basyş ulanylmaly."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Uzyn basyş gerek"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Düwme üçin uzyn basyň"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Habaryň gutarmagy (sekuntlar)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Tor gurmak"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Wideo"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Diňe OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Saklamak üçin OK basyň - toatyrmak üçin EXIT basyň"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Üçin basyň"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Düwme üçin görnüşi basyň"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Professional skrinshot guraly"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Karar"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Pathol tygşytlaň (täzeden başlamagy talap edýär)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Çarçuwa doňan hem bolsa ekran suratlaryny ýazdyryň."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Ekranyň suraty üstünlikli saklandy!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Ekranyň suratyny saýlaň"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Ekran suratlary üçin şekil formatyny saýlaň."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Ekran suratlary üçin ölçegi saýlaň."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Uzyn basmagyň ýerine düwme üçin press görnüşini düzüň."
 
 msgid "Settings"
-msgstr ""
+msgstr "Sazlamalar"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Suratyň ölçegi haýal, ýöne ýumşak."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Wagtlaýyn"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Habarlary ekranda görkezmegiň wagty."
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "Näbelli"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Bicubic ölçegini ulanyň"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Bicubic ölçegini ulanyň (has haýal, ýöne has ýumşak surat)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Diňe wideo"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Surata alnan ekran suratlaryny görüň"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Web almak şowsuz: Grab elýeterli däl"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "uzyn 'ulanylyp bilner."
 
 msgid "long:"
-msgstr ""
+msgstr "uzyn:"
 
 msgid "no message"
-msgstr ""
+msgstr "habar ýok"
 
 msgid "no timeout"
-msgstr ""
+msgstr "wagt gutarmaýar"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "garaşyň, surat ýükläň ..."

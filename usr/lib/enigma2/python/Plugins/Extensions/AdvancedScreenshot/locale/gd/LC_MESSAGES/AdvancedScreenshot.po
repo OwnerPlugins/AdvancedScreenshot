@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "'putan an àite'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Roghainn Add -n gus sparradh gun sìneadh."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Cuir bogsa-litreach ris mas e an stòr 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Glacadh-sgrìn adhartach"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Gailearaidh glacadh-sgrìn adhartach"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Suidheachadh glacadh-sgrìn adhartach"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "An-còmhnaidh cuir a-mach ìomhaigh 4: 3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Cuir a-mach ìomhaigh 4: 3 an-còmhnaidh (cuir bogsa-litreach ma tha an stòr 16: 9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Sàbhail seallaidhean-sgrìn an-còmhnaidh"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "A bheil thu cinnteach gu bheil thu airson an glacadh-sgrìn seo a sguabadh às?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Tagh dè am putan a bhrosnaicheas glacadh-sgrìn."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Fuasgladh bunaiteach"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Dh'fhàillig an sguabadh às:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Dèan comas no cuir à comas am plugan Sealladh-sgrìn Adhartach."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Dèan comas air plugan"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Mearachd rè glacadh:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Thachair mearachd le luchdachadh a' ghailearaidh:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Ceartaich co-mheas taobh"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Ceartaich co-mheas taobh (a’ cur -n ri sparradh gun sìneadh)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Folder far a bheil glacadh-sgrìn air an sàbhaladh."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Ro-shealladh frèam reothadh"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Reothadh an ro-shealladh frèam nuair a bhios tu a’ glacadh-sgrìn."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Diosca cruaidh"
 
 msgid "Image format"
-msgstr ""
+msgstr "Cruth ìomhaigh"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Feumar preas fada a chleachdadh airson a’ phutan seo."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Tha feum air preas fada"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Brùth fada a dhìth airson a’ phutan"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Ùine teachdaireachd (diogan)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Stàladh lìonra"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + Bhidio"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD a-mhàin"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Brùth OK gus sàbhaladh - EXIT gus a chur dheth"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Brùth seòrsa airson"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Brùth seòrsa airson putan"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Inneal glacadh-sgrìn proifeasanta"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Fuasgladh"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Sàbhail slighe (feumar ath-thòiseachadh)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Sàbhail seallaidhean-sgrìn eadhon ged a tha am frèam reòta."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Glacadh-sgrìn air a shàbhaladh gu soirbheachail!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Tagh putan glacadh-sgrìn"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Tagh an cruth ìomhaigh airson seallaidhean-sgrìn."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Tagh an rùn airson seallaidhean-sgrìn."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Suidhich an seòrsa preas airson putan an àite preas fada."
 
 msgid "Settings"
-msgstr ""
+msgstr "Suidhichidhean"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Atharraich meud ìomhaigh nas slaodaiche ach nas socair."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Sealach"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Tha an t-àm ann teachdaireachdan a thaisbeanadh air an sgrion."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Dràibhear USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Neo-aithnichte"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Cleachd ath-mheudachadh bicubic"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Cleachd ath-mheudachadh bicubic (dealbh nas slaodaiche, ach nas socair)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Bhidio a-mhàin"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Seall seallaidhean-sgrìn air an glacadh"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Dh'fhàillig glacadh lìn: chan eil greim ri fhaighinn"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "fada 'ga chleachdadh."
 
 msgid "long:"
-msgstr ""
+msgstr "fada:"
 
 msgid "no message"
-msgstr ""
+msgstr "gun teachdaireachd"
 
 msgid "no timeout"
-msgstr ""
+msgstr "gun ùine-ama"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "fuirich thusa mionaid gus a luchdadh a-nuas dealbh. ."

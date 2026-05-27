@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "butoni "në vend të""
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Shtoni opsionin -n për të mos detyruar shtrirjen."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Shto kutinë e postës nëse burimi është 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Pamje e avancuar e ekranit"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Galeria e avancuar e pamjeve të ekranit"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Konfigurimi i avancuar i pamjes së ekranit"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Gjithmonë nxirrni imazhin 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Gjithmonë nxirr imazhin 4:3 (shton kutinë e letrës nëse burimi është 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Ruani gjithmonë pamjet e ekranit"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Je i sigurt që dëshiron ta fshish këtë pamje të ekranit?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Zgjidhni cili buton aktivizon pamjen e ekranit."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Rezolucioni i parazgjedhur"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Fshirja dështoi:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Aktivizoni ose çaktivizoni shtesën e avancuar të pamjes së ekranit."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Aktivizo shtojcën"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Gabim gjatë regjistrimit:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Gabim gjatë ngarkimit të galerisë:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Rregulloni raportin e pamjes"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Rregulloni raportin e pamjes (shton -n për të mos detyruar shtrirjen)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Dosja ku ruhen pamjet e ekranit."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Ngrirja e pamjes paraprake të kornizës"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Ngrini pamjen paraprake të kornizës kur bëni pamje nga ekrani."
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Image format"
-msgstr ""
+msgstr "Formati i imazhit"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Shtypja e gjatë duhet të përdoret për këtë buton."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Kërkohet shtypja e gjatë për"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Kërkohet shtypja e gjatë për butonin"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Koha e fundit e mesazhit (sekonda)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Montimi i rrjetit"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "Vetëm OSD"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Shtypni OK për të ruajtur - EXIT për të anuluar"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Shtypni llojin për"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Shtypni butonin tip për"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Mjet profesional i pamjes së ekranit"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Rezolucioni"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Ruaj shtegun (kërkon rinisje)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Ruani pamjet e ekranit edhe nëse korniza është e ngrirë."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Pamja e ekranit u ruajt me sukses!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Zgjidhni butonin e pamjes së ekranit"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Zgjidhni formatin e imazhit për pamjet e ekranit."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Zgjidhni rezolucionin për pamjet e ekranit."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Vendosni llojin e shtypjes për butonin në vend të shtypjes së gjatë."
 
 msgid "Settings"
-msgstr ""
+msgstr "Cilësimet"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Ndryshimi i përmasave më të ngadalta por më të butë të imazhit."
 
 msgid "Temporary"
-msgstr ""
+msgstr "E përkohshme"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Koha për të shfaqur mesazhet në ekran."
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "E panjohur"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Përdorni ndryshimin e madhësisë bikubike"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Përdorni ndryshimin e madhësisë bikubike (imazh më i ngadaltë, por më i butë)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Vetëm video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Shikoni pamjet e kapura të ekranit"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Regjistrimi i uebit dështoi: Kapja nuk ofrohet"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "mund të përdoret gjatë."
 
 msgid "long:"
-msgstr ""
+msgstr "e gjate:"
 
 msgid "no message"
-msgstr ""
+msgstr "asnjë mesazh"
 
 msgid "no timeout"
-msgstr ""
+msgstr "pa afat"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ju lutem prisni, po ngarkohet fotografia..."

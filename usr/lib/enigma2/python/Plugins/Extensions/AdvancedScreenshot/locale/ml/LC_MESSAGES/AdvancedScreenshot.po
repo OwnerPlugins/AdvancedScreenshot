@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "' ബട്ടണിനു പകരം '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "വലിച്ചുനീട്ടേണ്ടതില്ലെന്ന് നിർബന്ധിക്കാൻ -n ഓപ്ഷൻ ചേർക്കുക."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "ഉറവിടം 16:9 ആണെങ്കിൽ ലെറ്റർബോക്സ് ചേർക്കുക."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "വിപുലമായ സ്ക്രീൻഷോട്ട്"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "വിപുലമായ സ്ക്രീൻഷോട്ട് ഗാലറി"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "വിപുലമായ സ്ക്രീൻഷോട്ട് സജ്ജീകരണം"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "എല്ലായ്പ്പോഴും 4:3 ഇമേജ് ഔട്ട്പുട്ട് ചെയ്യുക"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "എല്ലായ്പ്പോഴും 4:3 ഇമേജ് ഔട്ട്പുട്ട് ചെയ്യുക (ഉറവിടം 16:9 ആണെങ്കിൽ ലെറ്റർബോക്സ് ചേർക്കുന്നു)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടുകൾ എപ്പോഴും സംരക്ഷിക്കുക"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "ഈ സ്ക്രീൻഷോട്ട് ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?"
 
 msgid "BMP"
-msgstr ""
+msgstr "ബിഎംപി"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "ഏത് ബട്ടണാണ് സ്ക്രീൻഷോട്ട് ട്രിഗർ ചെയ്യേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ഡിഫോൾട്ട് റെസല്യൂഷൻ"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ഇല്ലാതാക്കൽ പരാജയപ്പെട്ടു:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "വിപുലമായ സ്ക്രീൻഷോട്ട് പ്ലഗിൻ പ്രവർത്തനക്ഷമമാക്കുക അല്ലെങ്കിൽ പ്രവർത്തനരഹിതമാക്കുക."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "പ്ലഗിൻ പ്രവർത്തനക്ഷമമാക്കുക"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "ക്യാപ്‌ചർ ചെയ്യുമ്പോൾ പിശക്:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "ഗാലറി ലോഡുചെയ്യുന്നതിൽ പിശക്:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "വീക്ഷണാനുപാതം ശരിയാക്കുക"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "വീക്ഷണാനുപാതം ശരിയാക്കുക (നീട്ടാതിരിക്കാൻ -n ചേർക്കുന്നു)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടുകൾ സംരക്ഷിച്ചിരിക്കുന്ന ഫോൾഡർ."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "ഫ്രെയിം പ്രിവ്യൂ ഫ്രീസ് ചെയ്യുക"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് എടുക്കുമ്പോൾ ഫ്രെയിം പ്രിവ്യൂ ഫ്രീസ് ചെയ്യുക."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ഹാർഡ് ഡിസ്ക്"
 
 msgid "Image format"
-msgstr ""
+msgstr "ഇമേജ് ഫോർമാറ്റ്"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ഈ ബട്ടണിനായി ദീർഘനേരം അമർത്തേണ്ടതുണ്ട്."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "ദീർഘനേരം അമർത്തേണ്ടതുണ്ട്"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "ബട്ടണിന് ദീർഘനേരം അമർത്തേണ്ടതുണ്ട്"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "സന്ദേശ കാലഹരണപ്പെടൽ (സെക്കൻഡ്)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "നെറ്റ്‌വർക്ക് മൗണ്ട്"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + വീഡിയോ"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD മാത്രം"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "സംരക്ഷിക്കാൻ ശരി അമർത്തുക - റദ്ദാക്കാൻ EXIT"
 
 msgid "Press type for"
-msgstr ""
+msgstr "അതിനുള്ള തരം അമർത്തുക"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "ബട്ടൺ ടൈപ്പ് അമർത്തുക"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "പ്രൊഫഷണൽ സ്ക്രീൻഷോട്ട് ഉപകരണം"
 
 msgid "Resolution"
-msgstr ""
+msgstr "റെസലൂഷൻ"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "പാത സംരക്ഷിക്കുക (പുനരാരംഭിക്കേണ്ടതുണ്ട്)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "ഫ്രെയിം ഫ്രീസ് ചെയ്താലും സ്ക്രീൻഷോട്ടുകൾ സംരക്ഷിക്കുക."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് വിജയകരമായി സംരക്ഷിച്ചു!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ട് ബട്ടൺ തിരഞ്ഞെടുക്കുക"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടുകൾക്കായി ഇമേജ് ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "സ്ക്രീൻഷോട്ടുകൾക്കുള്ള മിഴിവ് തിരഞ്ഞെടുക്കുക."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "ദീർഘനേരം അമർത്തുന്നതിന് പകരം ബട്ടണിനായി അമർത്തുക തരം സജ്ജമാക്കുക."
 
 msgid "Settings"
-msgstr ""
+msgstr "ക്രമീകരണങ്ങൾ"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "സാവധാനവും എന്നാൽ സുഗമവുമായ ചിത്രത്തിൻ്റെ വലുപ്പം മാറ്റുന്നു."
 
 msgid "Temporary"
-msgstr ""
+msgstr "താൽക്കാലികം"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "സ്ക്രീനിൽ സന്ദേശങ്ങൾ പ്രദർശിപ്പിക്കാനുള്ള സമയം."
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB ഡ്രൈവ്"
 
 msgid "Unknown"
-msgstr ""
+msgstr "അജ്ഞാതം"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "ബിക്യൂബിക് വലുപ്പം ഉപയോഗിക്കുക"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "ബിക്യൂബിക് വലുപ്പം മാറ്റുക (മന്ദഗതിയിലുള്ളതും എന്നാൽ സുഗമവുമായ ചിത്രം)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "വീഡിയോ മാത്രം"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "പിടിച്ചെടുത്ത സ്ക്രീൻഷോട്ടുകൾ കാണുക"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "വെബ് ക്യാപ്‌ചർ പരാജയപ്പെട്ടു: ഗ്രാബ് ലഭ്യമല്ല"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "നീളം 'ഉപയോഗിക്കാം."
 
 msgid "long:"
-msgstr ""
+msgstr "നീണ്ട:"
 
 msgid "no message"
-msgstr ""
+msgstr "സന്ദേശമില്ല"
 
 msgid "no timeout"
-msgstr ""
+msgstr "സമയപരിധി ഇല്ല"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "ദയവായി കാത്തിരിക്കൂ, ചിത്രം ലോഡ് ചെയ്യുന്നു..."

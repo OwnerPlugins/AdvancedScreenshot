@@ -11,79 +11,79 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "butono ' anstataŭ '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "Aldonu -n opcion por devigi neniun streĉadon."
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "Aldonu leterkeston se fonto estas 16:9."
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "Altnivela Ekrankopio"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "Altnivela Ekrankopio Galerio"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "Altnivela Ekrankopio Agordo"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "Ĉiam eligu bildon 4:3"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "Ĉiam eligu bildon 4:3 (aldonas leterkeston se fonto estas 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "Ĉiam konservu ekrankopiojn"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "Ĉu vi certas, ke vi volas forigi ĉi tiun ekrankopion?"
 
 msgid "BMP"
 msgstr ""
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "Elektu kiun butonon ekigas ekrankopion."
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "Defaŭlta Rezolucio"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Forigo malsukcesis:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "Ebligu aŭ malŝaltu la Altnivelan Ekrankopio-kromaĵon."
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "Ebligu kromprogramon"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "Eraro dum kapto:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "Eraro dum ŝarĝo de galerio:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "Ripari bildformajn proporciojn"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "Ripari bildformaton (aldonas -n por devigi neniun streĉadon)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "Dosierujo kie ekrankopioj estas konservitaj."
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "Frosti kadra antaŭrigardo"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "Frostigu la kadra antaŭrigardon kiam vi prenas ekrankopion."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Malmola Disko"
 
 msgid "Image format"
-msgstr ""
+msgstr "Bildformato"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -98,109 +98,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "Longa premo devas esti uzata por ĉi tiu butono."
 
 msgid "Long press required for"
-msgstr ""
+msgstr "Longa premo necesa por"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "Longa premo necesa por butono"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "Messaĝtempo (sekundoj)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "Reta monto"
 
 msgid "OSD + Video"
 msgstr ""
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD Nur"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "Premu OK por konservi - EXIT por nuligi"
 
 msgid "Press type for"
-msgstr ""
+msgstr "Premu tipon por"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "Premu tipon por butono"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "Profesia ekrankopio ilo"
 
 msgid "Resolution"
-msgstr ""
+msgstr "Rezolucio"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "Konservi vojon (postulas rekomencon)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "Konservu ekrankopiojn eĉ se kadro estas frostigita."
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "Ekrankopio sukcese konservita!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "Elektu ekrankopio butonon"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "Elektu la bildformaton por ekrankopioj."
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "Elektu la rezolucion por ekrankopioj."
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "Agordu preman tipon por butono anstataŭ longa premu."
 
 msgid "Settings"
-msgstr ""
+msgstr "Agordoj"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "Pli malrapida sed pli glata bildo regrandigo."
 
 msgid "Temporary"
-msgstr ""
+msgstr "Provizora"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "Tempo por montri mesaĝojn sur ekrano."
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Unknown"
-msgstr ""
+msgstr "Nekonata"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "Uzu bikuban regrandigon"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "Uzu bikuban regrandigon (pli malrapida, sed pli glata bildo)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "Nur Video"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "Rigardu kaptitajn ekrankopiojn"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "Retkapto malsukcesis: Kapto ne havebla"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "longa ' povas esti uzata."
 
 msgid "long:"
-msgstr ""
+msgstr "longa:"
 
 msgid "no message"
-msgstr ""
+msgstr "neniu mesaĝo"
 
 msgid "no timeout"
-msgstr ""
+msgstr "neniu tempotempo"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "bonvolu atendi, ŝarĝante bildon..."

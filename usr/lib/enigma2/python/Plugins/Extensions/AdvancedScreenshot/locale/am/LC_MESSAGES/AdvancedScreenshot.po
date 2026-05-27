@@ -10,79 +10,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "በምትኩ 'አዝራር'"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "አክል -n አማራጭ እንዳይዘረጋ ለማስገደድ።"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "ምንጩ 16፡9 ከሆነ የደብዳቤ ሳጥን ያክሉ።"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "የላቀ ቅጽበታዊ ገጽ እይታ"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "የላቀ የቅጽበታዊ ገጽ እይታ ጋለሪ"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "የላቀ ቅጽበታዊ ገጽ እይታ ማዋቀር"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "ሁልጊዜ 4፡3 ምስል አውጣ"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "ሁልጊዜ 4፡3 ምስል አውጣ (ምንጭ 16፡9 ከሆነ የደብዳቤ ሳጥን ይጨምራል)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "ሁልጊዜ ቅጽበታዊ ገጽ እይታዎችን ያስቀምጡ"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "እርግጠኛ ነዎት ይህን ቅጽበታዊ ገጽ እይታ መሰረዝ ይፈልጋሉ?"
 
 msgid "BMP"
-msgstr ""
+msgstr "ቢኤምፒ"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "ቅጽበታዊ ገጽ እይታን የሚቀሰቅሰው የትኛው አዝራር ይምረጡ።"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ነባሪ ጥራት"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "መሰረዝ አልተሳካም፦"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "የላቀ ቅጽበታዊ ገጽ እይታ ተሰኪን አንቃ ወይም አሰናክል።"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "ተሰኪን አንቃ"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "በመያዝ ጊዜ ስህተት፡\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "ማዕከለ-ስዕላትን መጫን ላይ ስህተት"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "ምጥጥነ ገጽታን አስተካክል።"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "ምጥጥነ ገጽታን አስተካክል (ምንም መዘርጋትን ለማስገደድ -n ይጨምራል)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "ቅጽበታዊ ገጽ እይታዎች የሚቀመጡበት አቃፊ።"
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "የፍሬም ቅድመ እይታን አሰር"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "ቅጽበታዊ ገጽ እይታን ሲያነሱ የፍሬም ቅድመ-እይታን ያቁሙ።"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ሃርድ ዲስክ"
 
 msgid "Image format"
-msgstr ""
+msgstr "የምስል ቅርጸት"
 
 msgid "JPEG 100%"
 msgstr ""
@@ -97,109 +97,109 @@ msgid "JPEG 90%"
 msgstr ""
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ለዚህ አዝራር በረጅሙ ተጭኖ መጠቀም አለበት።"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "ለረጅም ጊዜ መጫን ያስፈልጋል"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "ለአዝራር በረጅሙ ተጫን"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "የመልእክት ጊዜ ማብቂያ (ሰከንዶች)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "የአውታረ መረብ ጭነት"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + ቪዲዮ"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD ብቻ"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "ለማስቀመጥ እሺን ይጫኑ - ለመሰረዝ ውጣ"
 
 msgid "Press type for"
-msgstr ""
+msgstr "ለ የሚለውን አይነት ይጫኑ"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "ለ አዝራር አይነትን ተጫን"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "የባለሙያ ቅጽበታዊ ገጽ እይታ መሣሪያ"
 
 msgid "Resolution"
-msgstr ""
+msgstr "ጥራት"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "ዱካ አስቀምጥ (ዳግም ማስጀመር ያስፈልገዋል)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "ክፈፉ ቢቀዘቅዝም ቅጽበታዊ ገጽ እይታዎችን ያስቀምጡ።"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "ቅጽበታዊ ገጽ እይታ በተሳካ ሁኔታ ተቀምጧል!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "የቅጽበታዊ ገጽ እይታ ቁልፍን ይምረጡ"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "ለቅጽበታዊ ገጽ እይታዎች የምስል ቅርጸቱን ይምረጡ።"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "ለቅጽበታዊ ገጽ እይታዎች ጥራትን ይምረጡ።"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "በረጅሙ ከመጫን ይልቅ የፕሬስ አይነትን ለአዝራር ያዘጋጁ።"
 
 msgid "Settings"
-msgstr ""
+msgstr "ቅንብሮች"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "ቀርፋፋ ግን ለስላሳ የምስል መጠን መቀየር።"
 
 msgid "Temporary"
-msgstr ""
+msgstr "ጊዜያዊ"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "በስክሪኑ ላይ መልዕክቶችን ለማሳየት ጊዜው አሁን ነው።"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "የዩኤስቢ ድራይቭ"
 
 msgid "Unknown"
-msgstr ""
+msgstr "ያልታወቀ"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "የቢኩቢክ መጠንን ተጠቀም"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "የቢኩቢክ መጠንን ተጠቀም (ቀስ ያለ፣ ግን ለስላሳ ምስል)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "ቪዲዮ ብቻ"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "የተያዙ ቅጽበታዊ ገጽ እይታዎችን ይመልከቱ"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "የድር ቀረጻ አልተሳካም፡ ያዝ አይገኝም"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "ረጅም" መጠቀም ይቻላል."
 
 msgid "long:"
-msgstr ""
+msgstr "ረጅም፡-"
 
 msgid "no message"
-msgstr ""
+msgstr "መልእክት የለም።"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ምንም ጊዜ ማብቂያ የለም"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "እባክህ ቆይ ፎቶ በመጫን ላይ..."

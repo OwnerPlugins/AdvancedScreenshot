@@ -10,196 +10,196 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "' button instead of '"
-msgstr ""
+msgstr "ปุ่ม ' แทน '"
 
 msgid "Add -n option to force no stretching."
-msgstr ""
+msgstr "เพิ่มตัวเลือก -n เพื่อไม่ให้ยืดออก"
 
 msgid "Add letterbox if source is 16:9."
-msgstr ""
+msgstr "เพิ่มกล่องจดหมายหากแหล่งที่มาเป็น 16:9"
 
 msgid "Advanced Screenshot"
-msgstr ""
+msgstr "ภาพหน้าจอขั้นสูง"
 
 msgid "Advanced Screenshot Gallery"
-msgstr ""
+msgstr "แกลเลอรี่ภาพหน้าจอขั้นสูง"
 
 msgid "Advanced Screenshot Setup"
-msgstr ""
+msgstr "การตั้งค่าภาพหน้าจอขั้นสูง"
 
 msgid "Always output 4:3 image"
-msgstr ""
+msgstr "เอาต์พุตภาพ 4:3 เสมอ"
 
 msgid "Always output 4:3 image (adds letterbox if source is 16:9)"
-msgstr ""
+msgstr "เอาต์พุตรูปภาพ 4:3 เสมอ (เพิ่มกล่องจดหมายหากต้นฉบับเป็น 16:9)"
 
 msgid "Always save screenshots"
-msgstr ""
+msgstr "บันทึกภาพหน้าจอเสมอ"
 
 msgid "Are you sure you want to delete this screenshot?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบภาพหน้าจอนี้"
 
 msgid "BMP"
-msgstr ""
+msgstr "บีเอ็มพี"
 
 msgid "Choose which button triggers screenshot."
-msgstr ""
+msgstr "เลือกปุ่มที่จะเรียกใช้ภาพหน้าจอ"
 
 msgid "Default Resolution"
-msgstr ""
+msgstr "ความละเอียดเริ่มต้น"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ลบไม่สำเร็จ:"
 
 msgid "Enable or disable the Advanced Screenshot plugin."
-msgstr ""
+msgstr "เปิดหรือปิดใช้งานปลั๊กอินภาพหน้าจอขั้นสูง"
 
 msgid "Enable plugin"
-msgstr ""
+msgstr "เปิดใช้งานปลั๊กอิน"
 
 msgid "Error during capture:\n"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดระหว่างการจับภาพ:\n"
 
 msgid "Error loading gallery:"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการโหลดแกลเลอรี:"
 
 msgid "Fix aspect ratio"
-msgstr ""
+msgstr "แก้ไขอัตราส่วนภาพ"
 
 msgid "Fix aspect ratio (adds -n to force no stretching)"
-msgstr ""
+msgstr "แก้ไขอัตราส่วนภาพ (เพิ่ม -n เพื่อบังคับให้ไม่ยืดออก)"
 
 msgid "Folder where screenshots are saved."
-msgstr ""
+msgstr "โฟลเดอร์ที่บันทึกภาพหน้าจอ"
 
 msgid "Freeze frame preview"
-msgstr ""
+msgstr "แสดงตัวอย่างเฟรมตรึง"
 
 msgid "Freeze the frame preview when taking screenshot."
-msgstr ""
+msgstr "หยุดการแสดงตัวอย่างเฟรมเมื่อถ่ายภาพหน้าจอ"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ฮาร์ดดิสก์"
 
 msgid "Image format"
-msgstr ""
+msgstr "รูปแบบภาพ"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "เจเพ็ก 100%"
 
 msgid "JPEG 60%"
-msgstr ""
+msgstr "เจเพ็ก 60%"
 
 msgid "JPEG 80%"
-msgstr ""
+msgstr "เจเพ็ก 80%"
 
 msgid "JPEG 90%"
-msgstr ""
+msgstr "เจเพ็ก 90%"
 
 msgid "Long press must be used for this button."
-msgstr ""
+msgstr "ต้องใช้การกดแบบยาวสำหรับปุ่มนี้"
 
 msgid "Long press required for"
-msgstr ""
+msgstr "ต้องกดแบบยาวเพื่อ"
 
 msgid "Long press required for button"
-msgstr ""
+msgstr "ต้องกดปุ่มค้างไว้"
 
 msgid "Message timeout (seconds)"
-msgstr ""
+msgstr "หมดเวลาข้อความ (วินาที)"
 
 msgid "Network mount"
-msgstr ""
+msgstr "การติดตั้งเครือข่าย"
 
 msgid "OSD + Video"
-msgstr ""
+msgstr "OSD + วิดีโอ"
 
 msgid "OSD Only"
-msgstr ""
+msgstr "OSD เท่านั้น"
 
 msgid "PNG"
 msgstr ""
 
 msgid "Press OK to save - EXIT to cancel"
-msgstr ""
+msgstr "กด OK เพื่อบันทึก - EXIT เพื่อยกเลิก"
 
 msgid "Press type for"
-msgstr ""
+msgstr "กดพิมพ์เพื่อ"
 
 msgid "Press type for button"
-msgstr ""
+msgstr "กดปุ่มประเภท"
 
 msgid "Professional screenshot tool"
-msgstr ""
+msgstr "เครื่องมือจับภาพหน้าจอระดับมืออาชีพ"
 
 msgid "Resolution"
-msgstr ""
+msgstr "ปณิธาน"
 
 msgid "Save path (requires restart)"
-msgstr ""
+msgstr "บันทึกเส้นทาง (ต้องรีสตาร์ท)"
 
 msgid "Save screenshots even if frame is frozen."
-msgstr ""
+msgstr "บันทึกภาพหน้าจอแม้ว่าเฟรมจะค้างก็ตาม"
 
 msgid "Screenshot saved successfully!"
-msgstr ""
+msgstr "บันทึกภาพหน้าจอเรียบร้อยแล้ว!"
 
 msgid "Select screenshot button"
-msgstr ""
+msgstr "เลือกปุ่มภาพหน้าจอ"
 
 msgid "Select the image format for screenshots."
-msgstr ""
+msgstr "เลือกรูปแบบภาพสำหรับภาพหน้าจอ"
 
 msgid "Select the resolution for screenshots."
-msgstr ""
+msgstr "เลือกความละเอียดสำหรับภาพหน้าจอ"
 
 msgid "Set press type for button instead of long press."
-msgstr ""
+msgstr "ตั้งค่าประเภทการกดปุ่มแทนการกดแบบยาว"
 
 msgid "Settings"
-msgstr ""
+msgstr "การตั้งค่า"
 
 msgid "Slower but smoother image resizing."
-msgstr ""
+msgstr "การปรับขนาดภาพที่ช้ากว่าแต่นุ่มนวลกว่า"
 
 msgid "Temporary"
-msgstr ""
+msgstr "ชั่วคราว"
 
 msgid "Time to display messages on screen."
-msgstr ""
+msgstr "เวลาในการแสดงข้อความบนหน้าจอ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "ไดรฟ์ USB"
 
 msgid "Unknown"
-msgstr ""
+msgstr "ไม่ทราบ"
 
 msgid "Use bicubic resize"
-msgstr ""
+msgstr "ใช้การปรับขนาดแบบไบคิวบิก"
 
 msgid "Use bicubic resize (slower, but smoother image)"
-msgstr ""
+msgstr "ใช้การปรับขนาด bicubic (ภาพที่ช้ากว่า แต่นุ่มนวลกว่า)"
 
 msgid "Video Only"
-msgstr ""
+msgstr "วิดีโอเท่านั้น"
 
 msgid "View captured screenshots"
-msgstr ""
+msgstr "ดูภาพหน้าจอที่บันทึกไว้"
 
 msgid "Web capture failed: Grab not available"
-msgstr ""
+msgstr "การจับภาพเว็บล้มเหลว: Grab ไม่พร้อมใช้งาน"
 
 msgid "long ' can be used."
-msgstr ""
+msgstr "ยาว' ก็ใช้ได้"
 
 msgid "long:"
-msgstr ""
+msgstr "ยาว:"
 
 msgid "no message"
-msgstr ""
+msgstr "ไม่มีข้อความ"
 
 msgid "no timeout"
-msgstr ""
+msgstr "ไม่มีการหมดเวลา"
 
 msgid "please wait, loading picture..."
-msgstr ""
+msgstr "กรุณารอสักครู่ กำลังโหลดภาพ..."
