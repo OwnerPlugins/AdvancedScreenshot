@@ -85,7 +85,7 @@ msgid "Image format"
 msgstr "Format gambar"
 
 msgid "JPEG 100%"
-msgstr ""
+msgstr "jpeg 100%"
 
 msgid "JPEG 60%"
 msgstr ""
