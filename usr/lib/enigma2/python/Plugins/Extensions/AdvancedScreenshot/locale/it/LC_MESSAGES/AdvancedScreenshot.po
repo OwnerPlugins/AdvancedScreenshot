@@ -70,7 +70,7 @@ msgstr "Abilita plugin"
 
 #, fuzzy
 msgid "Error during capture:\\\\\\\\n"
-msgstr ""
+msgstr "Errore durante la cattura:\\\\\\\\\\\\\\\\n"
 "Errore durante la cattura:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\nErrore durante la cattura:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\nErrore durante l'acquisizione:\\\\\\\\\\\\\\\\nErrore durante la cattura:\n"
 " \n"
 
